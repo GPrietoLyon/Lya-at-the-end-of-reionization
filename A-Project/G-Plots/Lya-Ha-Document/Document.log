@@ -1,0 +1,2318 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.21)  29 FEB 2024 15:33
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Document.tex
+(./Document.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2023/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks17
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count196
+\l__pdf_internal_box=\box51
+)
+
+LaTeX Warning: Unused global option(s):
+    [english].
+
+(./Document.aux)
+\openout1 = `Document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+(/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count197
+\scratchdimen=\dimen151
+\scratchbox=\box52
+\nofMPsegments=\count198
+\nofMParguments=\count199
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count266
+\MPscratchDim=\dimen152
+\MPnumerator=\count267
+\makeMPintoPDFobject=\count268
+\everyMPtoPDFconversion=\toks19
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 14.45377pt
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 438.51413pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=438.51413pt
+* \textheight=700.50687pt
+* \oddsidemargin=14.45377pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=18.06749pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<HaProfiles/z6_GND_16819.pdf, id=1, 751.22049pt x 496.11201pt>
+File: HaProfiles/z6_GND_16819.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_16819.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_16819.pdf  used on input line 14.
+(pdftex.def)             Requested size: 341.43306pt x 239.32567pt.
+<Cutout/z6_GND_16819.pdf, id=2, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_16819.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_16819.pdf>
+Package pdftex.def Info: Cutout/z6_GND_16819.pdf  used on input line 15.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 16.
+[1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./HaP
+rofiles/z6_GND_16819.pdf> <./Cutout/z6_GND_16819.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_16819.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_14430.pdf, id=103, 766.71399pt x 496.11201pt>
+File: HaProfiles/z5_GND_14430.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_14430.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_14430.pdf  used on input line 21.
+(pdftex.def)             Requested size: 341.43306pt x 234.47513pt.
+<Cutout/z5_GND_14430.pdf, id=104, 309.80704pt x 264.66472pt>
+File: Cutout/z5_GND_14430.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_14430.pdf>
+Package pdftex.def Info: Cutout/z5_GND_14430.pdf  used on input line 22.
+(pdftex.def)             Requested size: 256.0748pt x 244.54424pt.
+ [2 <./HaProfiles/z5_GND_14430.pdf> <./Cutout/z5_GND_14430.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_14430.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_30190.pdf, id=202, 774.34013pt x 496.11201pt>
+File: HaProfiles/z5_GND_30190.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_30190.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_30190.pdf  used on input line 28.
+(pdftex.def)             Requested size: 341.43306pt x 232.15392pt.
+<Cutout/z5_GND_30190.pdf, id=203, 311.41307pt x 264.66472pt>
+File: Cutout/z5_GND_30190.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_30190.pdf>
+Package pdftex.def Info: Cutout/z5_GND_30190.pdf  used on input line 29.
+(pdftex.def)             Requested size: 256.0748pt x 243.25612pt.
+ [3 <./HaProfiles/z5_GND_30190.pdf> <./Cutout/z5_GND_30190.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_30190.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_42418.pdf, id=302, 754.60919pt x 496.11201pt>
+File: HaProfiles/z5_GND_42418.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_42418.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_42418.pdf  used on input line 35.
+(pdftex.def)             Requested size: 341.43306pt x 238.2451pt.
+<Cutout/z5_GND_42418.pdf, id=303, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_42418.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_42418.pdf>
+Package pdftex.def Info: Cutout/z5_GND_42418.pdf  used on input line 36.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [4 <./HaProfiles/z5_GND_42418.pdf> <./Cutout/z5_GND_42418.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_42418.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_15562.pdf, id=402, 785.26797pt x 496.11201pt>
+File: HaProfiles/z5_GND_15562.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_15562.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_15562.pdf  used on input line 42.
+(pdftex.def)             Requested size: 341.43306pt x 228.9122pt.
+<Cutout/z5_GND_15562.pdf, id=403, 307.56357pt x 264.66472pt>
+File: Cutout/z5_GND_15562.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_15562.pdf>
+Package pdftex.def Info: Cutout/z5_GND_15562.pdf  used on input line 43.
+(pdftex.def)             Requested size: 256.0748pt x 246.3467pt.
+ [5 <./HaProfiles/z5_GND_15562.pdf> <./Cutout/z5_GND_15562.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_15562.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z6_GNW_25971.png, id=503, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z6_GNW_25971.png Graphic file (type png)
+<use LyaProfiles/z6_GNW_25971.png>
+Package pdftex.def Info: LyaProfiles/z6_GNW_25971.png  used on input line 49.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z6_GNW_25971.pdf, id=505, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GNW_25971.pdf Graphic file (type pdf)
+<use Cutout/z6_GNW_25971.pdf>
+Package pdftex.def Info: Cutout/z6_GNW_25971.pdf  used on input line 50.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [6 <./LyaProfiles/z6_GNW_25971.png> <./Cutout/z6_GNW_25971.pdf>]
+<LyaProfiles/z6_GNW_23350.png, id=539, 756.6669pt x 521.0667pt>
+File: LyaProfiles/z6_GNW_23350.png Graphic file (type png)
+<use LyaProfiles/z6_GNW_23350.png>
+Package pdftex.def Info: LyaProfiles/z6_GNW_23350.png  used on input line 56.
+(pdftex.def)             Requested size: 341.43306pt x 248.89137pt.
+<Cutout/z6_GNW_23350.pdf, id=540, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GNW_23350.pdf Graphic file (type pdf)
+<use Cutout/z6_GNW_23350.pdf>
+Package pdftex.def Info: Cutout/z6_GNW_23350.pdf  used on input line 57.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [7 <./LyaProfiles/z6_GNW_23350.png> <./Cutout/z6_GNW_23350.pdf>]
+<LyaProfiles/z6_GNW_2993.png, id=576, 760.64175pt x 521.0667pt>
+File: LyaProfiles/z6_GNW_2993.png Graphic file (type png)
+<use LyaProfiles/z6_GNW_2993.png>
+Package pdftex.def Info: LyaProfiles/z6_GNW_2993.png  used on input line 63.
+(pdftex.def)             Requested size: 341.43306pt x 247.5917pt.
+<Cutout/z6_GNW_2993.pdf, id=577, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GNW_2993.pdf Graphic file (type pdf)
+<use Cutout/z6_GNW_2993.pdf>
+Package pdftex.def Info: Cutout/z6_GNW_2993.pdf  used on input line 64.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [8 <./LyaProfiles/z6_GNW_2993.png> <./Cutout/z6_GNW_2993.pdf>]
+<LyaProfiles/z5_GNW_12024.png, id=612, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GNW_12024.png Graphic file (type png)
+<use LyaProfiles/z5_GNW_12024.png>
+Package pdftex.def Info: LyaProfiles/z5_GNW_12024.png  used on input line 70.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z5_GNW_12024.pdf, id=613, 305.31659pt x 268.1258pt>
+File: Cutout/z5_GNW_12024.pdf Graphic file (type pdf)
+<use Cutout/z5_GNW_12024.pdf>
+Package pdftex.def Info: Cutout/z5_GNW_12024.pdf  used on input line 71.
+(pdftex.def)             Requested size: 256.0748pt x 251.08377pt.
+ [9 <./LyaProfiles/z5_GNW_12024.png> <./Cutout/z5_GNW_12024.pdf>]
+<LyaProfiles/z6_GNW_14511.png, id=648, 756.6669pt x 521.0667pt>
+File: LyaProfiles/z6_GNW_14511.png Graphic file (type png)
+<use LyaProfiles/z6_GNW_14511.png>
+Package pdftex.def Info: LyaProfiles/z6_GNW_14511.png  used on input line 77.
+(pdftex.def)             Requested size: 341.43306pt x 248.89137pt.
+<HaProfiles/z6_GNW_14511.pdf, id=649, 771.82101pt x 496.11201pt>
+File: HaProfiles/z6_GNW_14511.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GNW_14511.pdf>
+Package pdftex.def Info: HaProfiles/z6_GNW_14511.pdf  used on input line 78.
+(pdftex.def)             Requested size: 341.43306pt x 232.90631pt.
+<Cutout/z6_GNW_14511.pdf, id=650, 314.3758pt x 264.66472pt>
+File: Cutout/z6_GNW_14511.pdf Graphic file (type pdf)
+<use Cutout/z6_GNW_14511.pdf>
+Package pdftex.def Info: Cutout/z6_GNW_14511.pdf  used on input line 79.
+(pdftex.def)             Requested size: 256.0748pt x 240.96167pt.
+
+
+LaTeX Warning: Float too large for page by 64.75249pt on input line 82.
+
+[10 <./LyaProfiles/z6_GNW_14511.png> <./HaProfiles/z6_GNW_14511.pdf> <./Cutout/
+z6_GNW_14511.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GNW_14511.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z6_GNW_10822.png, id=748, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z6_GNW_10822.png Graphic file (type png)
+<use LyaProfiles/z6_GNW_10822.png>
+Package pdftex.def Info: LyaProfiles/z6_GNW_10822.png  used on input line 85.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z6_GNW_10822.pdf, id=749, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GNW_10822.pdf Graphic file (type pdf)
+<use Cutout/z6_GNW_10822.pdf>
+Package pdftex.def Info: Cutout/z6_GNW_10822.pdf  used on input line 86.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [11 <./LyaProfiles/z6_GNW_10822.png> <./Cutout/z6_GNW_10822.pdf>]
+<LyaProfiles/z6_GNW_14478.png, id=784, 767.86874pt x 521.0667pt>
+File: LyaProfiles/z6_GNW_14478.png Graphic file (type png)
+<use LyaProfiles/z6_GNW_14478.png>
+Package pdftex.def Info: LyaProfiles/z6_GNW_14478.png  used on input line 92.
+(pdftex.def)             Requested size: 341.43306pt x 245.25229pt.
+<Cutout/z6_GNW_14478.pdf, id=785, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GNW_14478.pdf Graphic file (type pdf)
+<use Cutout/z6_GNW_14478.pdf>
+Package pdftex.def Info: Cutout/z6_GNW_14478.pdf  used on input line 93.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [12 <./LyaProfiles/z6_GNW_14478.png> <./Cutout/z6_GNW_14478.pdf>]
+<LyaProfiles/z6_GND_35647.png, id=820, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z6_GND_35647.png Graphic file (type png)
+<use LyaProfiles/z6_GND_35647.png>
+Package pdftex.def Info: LyaProfiles/z6_GND_35647.png  used on input line 99.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z6_GND_35647.pdf, id=821, 305.31659pt x 266.65672pt>
+File: Cutout/z6_GND_35647.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_35647.pdf>
+Package pdftex.def Info: Cutout/z6_GND_35647.pdf  used on input line 100.
+(pdftex.def)             Requested size: 256.0748pt x 249.84004pt.
+ [13 <./LyaProfiles/z6_GND_35647.png> <./Cutout/z6_GND_35647.pdf>]
+<HaProfiles/z6_GND_25736.pdf, id=857, 771.34425pt x 496.11201pt>
+File: HaProfiles/z6_GND_25736.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_25736.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_25736.pdf  used on input line 106.
+(pdftex.def)             Requested size: 341.43306pt x 233.05838pt.
+<Cutout/z6_GND_25736.pdf, id=858, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_25736.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_25736.pdf>
+Package pdftex.def Info: Cutout/z6_GND_25736.pdf  used on input line 107.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [14 <./HaProfiles/z6_GND_25736.pdf> <./Cutout/z6_GND_25736.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_25736.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z6_GND_25400.pdf, id=956, 790.70406pt x 496.11201pt>
+File: HaProfiles/z6_GND_25400.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_25400.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_25400.pdf  used on input line 113.
+(pdftex.def)             Requested size: 341.43306pt x 227.32738pt.
+<Cutout/z6_GND_25400.pdf, id=957, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_25400.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_25400.pdf>
+Package pdftex.def Info: Cutout/z6_GND_25400.pdf  used on input line 114.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [15 <./HaProfiles/z6_GND_25400.pdf> <./Cutout/z6_GND_25400.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_25400.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z6_GND_19165.png, id=1056, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z6_GND_19165.png Graphic file (type png)
+<use LyaProfiles/z6_GND_19165.png>
+Package pdftex.def Info: LyaProfiles/z6_GND_19165.png  used on input line 120.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z6_GND_19165.pdf, id=1057, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_19165.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_19165.pdf>
+Package pdftex.def Info: Cutout/z6_GND_19165.pdf  used on input line 121.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [16 <./LyaProfiles/z6_GND_19165.png> <./Cutout/z6_GND_19165.pdf>]
+<LyaProfiles/z6_GND_14309.png, id=1090, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z6_GND_14309.png Graphic file (type png)
+<use LyaProfiles/z6_GND_14309.png>
+Package pdftex.def Info: LyaProfiles/z6_GND_14309.png  used on input line 127.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z6_GND_14309.pdf, id=1091, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_14309.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_14309.pdf>
+Package pdftex.def Info: Cutout/z6_GND_14309.pdf  used on input line 128.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [17 <./LyaProfiles/z6_GND_14309.png> <./Cutout/z6_GND_14309.pdf>]
+<HaProfiles/z6_GND_3649.pdf, id=1125, 781.49779pt x 496.11201pt>
+File: HaProfiles/z6_GND_3649.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_3649.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_3649.pdf  used on input line 134.
+(pdftex.def)             Requested size: 341.43306pt x 230.0248pt.
+<Cutout/z6_GND_3649.pdf, id=1126, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_3649.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_3649.pdf>
+Package pdftex.def Info: Cutout/z6_GND_3649.pdf  used on input line 135.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [18 <./HaProfiles/z6_GND_3649.pdf> <./Cutout/z6_GND_3649.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_3649.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z6_GND_36100.png, id=1224, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z6_GND_36100.png Graphic file (type png)
+<use LyaProfiles/z6_GND_36100.png>
+Package pdftex.def Info: LyaProfiles/z6_GND_36100.png  used on input line 141.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<HaProfiles/z6_GND_36100.pdf, id=1225, 781.49779pt x 496.11201pt>
+File: HaProfiles/z6_GND_36100.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_36100.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_36100.pdf  used on input line 142.
+(pdftex.def)             Requested size: 341.43306pt x 230.0248pt.
+<Cutout/z6_GND_36100.pdf, id=1226, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_36100.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_36100.pdf>
+Package pdftex.def Info: Cutout/z6_GND_36100.pdf  used on input line 143.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+
+
+LaTeX Warning: Float too large for page by 71.48619pt on input line 146.
+
+[19 <./LyaProfiles/z6_GND_36100.png> <./HaProfiles/z6_GND_36100.pdf> <./Cutout/
+z6_GND_36100.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_36100.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_32273.pdf, id=1327, 779.37811pt x 496.11201pt>
+File: HaProfiles/z5_GND_32273.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_32273.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_32273.pdf  used on input line 149.
+(pdftex.def)             Requested size: 341.43306pt x 230.64912pt.
+<Cutout/z5_GND_32273.pdf, id=1328, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_32273.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_32273.pdf>
+Package pdftex.def Info: Cutout/z5_GND_32273.pdf  used on input line 150.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [20 <./HaProfiles/z5_GND_32273.pdf> <./Cutout/z5_GND_32273.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_32273.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z6_GND_25195.pdf, id=1426, 772.91641pt x 496.11201pt>
+File: HaProfiles/z6_GND_25195.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_25195.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_25195.pdf  used on input line 156.
+(pdftex.def)             Requested size: 341.43306pt x 232.57813pt.
+<Cutout/z6_GND_25195.pdf, id=1427, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_25195.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_25195.pdf>
+Package pdftex.def Info: Cutout/z6_GND_25195.pdf  used on input line 157.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [21 <./HaProfiles/z6_GND_25195.pdf> <./Cutout/z6_GND_25195.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_25195.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z6_GND_27453.pdf, id=1526, 790.70406pt x 496.11201pt>
+File: HaProfiles/z6_GND_27453.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_27453.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_27453.pdf  used on input line 163.
+(pdftex.def)             Requested size: 341.43306pt x 227.32738pt.
+<Cutout/z6_GND_27453.pdf, id=1527, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_27453.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_27453.pdf>
+Package pdftex.def Info: Cutout/z6_GND_27453.pdf  used on input line 164.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [22 <./HaProfiles/z6_GND_27453.pdf> <./Cutout/z6_GND_27453.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_27453.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z6_GND_19665.pdf, id=1625, 763.63878pt x 496.11201pt>
+File: HaProfiles/z6_GND_19665.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_19665.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_19665.pdf  used on input line 170.
+(pdftex.def)             Requested size: 341.43306pt x 235.41962pt.
+<Cutout/z6_GND_19665.pdf, id=1626, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_19665.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_19665.pdf>
+Package pdftex.def Info: Cutout/z6_GND_19665.pdf  used on input line 171.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [23 <./HaProfiles/z6_GND_19665.pdf> <./Cutout/z6_GND_19665.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_19665.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z6_GND_11494.pdf, id=1726, 781.49779pt x 496.11201pt>
+File: HaProfiles/z6_GND_11494.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_11494.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_11494.pdf  used on input line 177.
+(pdftex.def)             Requested size: 341.43306pt x 230.0248pt.
+<Cutout/z6_GND_11494.pdf, id=1727, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_11494.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_11494.pdf>
+Package pdftex.def Info: Cutout/z6_GND_11494.pdf  used on input line 178.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [24 <./HaProfiles/z6_GND_11494.pdf> <./Cutout/z6_GND_11494.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_11494.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z6_GND_8934.pdf, id=1825, 781.49779pt x 496.11201pt>
+File: HaProfiles/z6_GND_8934.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_8934.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_8934.pdf  used on input line 184.
+(pdftex.def)             Requested size: 341.43306pt x 230.0248pt.
+<Cutout/z6_GND_8934.pdf, id=1826, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_8934.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_8934.pdf>
+Package pdftex.def Info: Cutout/z6_GND_8934.pdf  used on input line 185.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [25 <./HaProfiles/z6_GND_8934.pdf> <./Cutout/z6_GND_8934.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_8934.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_10574.pdf, id=1926, 769.77695pt x 496.11201pt>
+File: HaProfiles/z5_GND_10574.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_10574.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_10574.pdf  used on input line 191.
+(pdftex.def)             Requested size: 341.43306pt x 233.53864pt.
+<Cutout/z5_GND_10574.pdf, id=1927, 311.49008pt x 264.66472pt>
+File: Cutout/z5_GND_10574.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_10574.pdf>
+Package pdftex.def Info: Cutout/z5_GND_10574.pdf  used on input line 192.
+(pdftex.def)             Requested size: 256.0748pt x 243.20692pt.
+ [26 <./HaProfiles/z5_GND_10574.pdf> <./Cutout/z5_GND_10574.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_10574.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z6_GND_10131.pdf, id=2025, 763.96115pt x 496.11201pt>
+File: HaProfiles/z6_GND_10131.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_10131.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_10131.pdf  used on input line 198.
+(pdftex.def)             Requested size: 341.43306pt x 235.32358pt.
+<Cutout/z6_GND_10131.pdf, id=2026, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_10131.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_10131.pdf>
+Package pdftex.def Info: Cutout/z6_GND_10131.pdf  used on input line 199.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [27 <./HaProfiles/z6_GND_10131.pdf> <./Cutout/z6_GND_10131.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_10131.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z6_GND_43125.png, id=2124, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z6_GND_43125.png Graphic file (type png)
+<use LyaProfiles/z6_GND_43125.png>
+Package pdftex.def Info: LyaProfiles/z6_GND_43125.png  used on input line 205.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<HaProfiles/z6_GND_43125.pdf, id=2125, 786.0526pt x 496.11201pt>
+File: HaProfiles/z6_GND_43125.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_43125.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_43125.pdf  used on input line 206.
+(pdftex.def)             Requested size: 341.43306pt x 228.68008pt.
+<Cutout/z6_GND_43125.pdf, id=2126, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_43125.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_43125.pdf>
+Package pdftex.def Info: Cutout/z6_GND_43125.pdf  used on input line 207.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+
+
+LaTeX Warning: Float too large for page by 70.14148pt on input line 210.
+
+[28 <./LyaProfiles/z6_GND_43125.png> <./HaProfiles/z6_GND_43125.pdf> <./Cutout/
+z6_GND_43125.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_43125.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z6_GND_41463.pdf, id=2225, 781.49779pt x 496.11201pt>
+File: HaProfiles/z6_GND_41463.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_41463.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_41463.pdf  used on input line 213.
+(pdftex.def)             Requested size: 341.43306pt x 230.0248pt.
+<Cutout/z6_GND_41463.pdf, id=2226, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_41463.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_41463.pdf>
+Package pdftex.def Info: Cutout/z6_GND_41463.pdf  used on input line 214.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [29 <./HaProfiles/z6_GND_41463.pdf> <./Cutout/z6_GND_41463.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_41463.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z6_GNW_11543.png, id=2322, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z6_GNW_11543.png Graphic file (type png)
+<use LyaProfiles/z6_GNW_11543.png>
+Package pdftex.def Info: LyaProfiles/z6_GNW_11543.png  used on input line 220.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z6_GNW_11543.pdf, id=2323, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GNW_11543.pdf Graphic file (type pdf)
+<use Cutout/z6_GNW_11543.pdf>
+Package pdftex.def Info: Cutout/z6_GNW_11543.pdf  used on input line 221.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [30 <./LyaProfiles/z6_GNW_11543.png> <./Cutout/z6_GNW_11543.pdf>]
+<HaProfiles/z6_GND_36607.pdf, id=2358, 781.49779pt x 496.11201pt>
+File: HaProfiles/z6_GND_36607.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_36607.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_36607.pdf  used on input line 227.
+(pdftex.def)             Requested size: 341.43306pt x 230.0248pt.
+<Cutout/z6_GND_36607.pdf, id=2359, 307.90736pt x 268.79185pt>
+File: Cutout/z6_GND_36607.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_36607.pdf>
+Package pdftex.def Info: Cutout/z6_GND_36607.pdf  used on input line 228.
+(pdftex.def)             Requested size: 256.0748pt x 249.53406pt.
+ [31 <./HaProfiles/z6_GND_36607.pdf> <./Cutout/z6_GND_36607.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_36607.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z6_GND_36553.png, id=2458, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z6_GND_36553.png Graphic file (type png)
+<use LyaProfiles/z6_GND_36553.png>
+Package pdftex.def Info: LyaProfiles/z6_GND_36553.png  used on input line 234.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z6_GND_36553.pdf, id=2459, 307.04942pt x 264.66472pt>
+File: Cutout/z6_GND_36553.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_36553.pdf>
+Package pdftex.def Info: Cutout/z6_GND_36553.pdf  used on input line 235.
+(pdftex.def)             Requested size: 256.0748pt x 246.7537pt.
+ [32 <./LyaProfiles/z6_GND_36553.png> <./Cutout/z6_GND_36553.pdf>]
+<HaProfiles/z6_GND_28182.pdf, id=2493, 790.70406pt x 496.11201pt>
+File: HaProfiles/z6_GND_28182.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_28182.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_28182.pdf  used on input line 241.
+(pdftex.def)             Requested size: 341.43306pt x 227.32738pt.
+<Cutout/z6_GND_28182.pdf, id=2494, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_28182.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_28182.pdf>
+Package pdftex.def Info: Cutout/z6_GND_28182.pdf  used on input line 242.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [33 <./HaProfiles/z6_GND_28182.pdf> <./Cutout/z6_GND_28182.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_28182.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z6_GND_20167.pdf, id=2594, 772.29152pt x 496.11201pt>
+File: HaProfiles/z6_GND_20167.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_20167.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_20167.pdf  used on input line 248.
+(pdftex.def)             Requested size: 341.43306pt x 232.77023pt.
+<Cutout/z6_GND_20167.pdf, id=2595, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_20167.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_20167.pdf>
+Package pdftex.def Info: Cutout/z6_GND_20167.pdf  used on input line 249.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [34 <./HaProfiles/z6_GND_20167.pdf> <./Cutout/z6_GND_20167.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_20167.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z6_GND_22665.pdf, id=2694, 769.54935pt x 496.11201pt>
+File: HaProfiles/z6_GND_22665.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_22665.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_22665.pdf  used on input line 255.
+(pdftex.def)             Requested size: 341.43306pt x 233.60268pt.
+<Cutout/z6_GND_22665.pdf, id=2695, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_22665.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_22665.pdf>
+Package pdftex.def Info: Cutout/z6_GND_22665.pdf  used on input line 256.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [35 <./HaProfiles/z6_GND_22665.pdf> <./Cutout/z6_GND_22665.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_22665.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z6_GND_22789.pdf, id=2794, 767.58534pt x 496.11201pt>
+File: HaProfiles/z6_GND_22789.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_22789.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_22789.pdf  used on input line 262.
+(pdftex.def)             Requested size: 341.43306pt x 234.20299pt.
+<Cutout/z6_GND_22789.pdf, id=2795, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_22789.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_22789.pdf>
+Package pdftex.def Info: Cutout/z6_GND_22789.pdf  used on input line 263.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [36 <./HaProfiles/z6_GND_22789.pdf> <./Cutout/z6_GND_22789.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_22789.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z5_GND_7766.png, id=2893, 767.86874pt x 521.0667pt>
+File: LyaProfiles/z5_GND_7766.png Graphic file (type png)
+<use LyaProfiles/z5_GND_7766.png>
+Package pdftex.def Info: LyaProfiles/z5_GND_7766.png  used on input line 269.
+(pdftex.def)             Requested size: 341.43306pt x 245.25229pt.
+<Cutout/z5_GND_7766.pdf, id=2894, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_7766.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_7766.pdf>
+Package pdftex.def Info: Cutout/z5_GND_7766.pdf  used on input line 270.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [37 <./LyaProfiles/z5_GND_7766.png> <./Cutout/z5_GND_7766.pdf>]
+<LyaProfiles/z7_GNW_22375.png, id=2929, 767.86874pt x 521.0667pt>
+File: LyaProfiles/z7_GNW_22375.png Graphic file (type png)
+<use LyaProfiles/z7_GNW_22375.png>
+Package pdftex.def Info: LyaProfiles/z7_GNW_22375.png  used on input line 276.
+(pdftex.def)             Requested size: 341.43306pt x 245.25229pt.
+<Cutout/z7_GNW_22375.pdf, id=2930, 305.31659pt x 264.66472pt>
+File: Cutout/z7_GNW_22375.pdf Graphic file (type pdf)
+<use Cutout/z7_GNW_22375.pdf>
+Package pdftex.def Info: Cutout/z7_GNW_22375.pdf  used on input line 277.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [38 <./LyaProfiles/z7_GNW_22375.png> <./Cutout/z7_GNW_22375.pdf>]
+<HaProfiles/z7_GND_22525.pdf, id=2964, 763.08525pt x 496.11201pt>
+File: HaProfiles/z7_GND_22525.pdf Graphic file (type pdf)
+<use HaProfiles/z7_GND_22525.pdf>
+Package pdftex.def Info: HaProfiles/z7_GND_22525.pdf  used on input line 283.
+(pdftex.def)             Requested size: 341.43306pt x 235.5877pt.
+<Cutout/z7_GND_22525.pdf, id=2965, 305.31659pt x 264.66472pt>
+File: Cutout/z7_GND_22525.pdf Graphic file (type pdf)
+<use Cutout/z7_GND_22525.pdf>
+Package pdftex.def Info: Cutout/z7_GND_22525.pdf  used on input line 284.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [39 <./HaProfiles/z7_GND_22525.pdf> <./Cutout/z7_GND_22525.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z7_GND_22525.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z7_GND_34860.pdf, id=3064, 763.08525pt x 496.11201pt>
+File: HaProfiles/z7_GND_34860.pdf Graphic file (type pdf)
+<use HaProfiles/z7_GND_34860.pdf>
+Package pdftex.def Info: HaProfiles/z7_GND_34860.pdf  used on input line 290.
+(pdftex.def)             Requested size: 341.43306pt x 235.5877pt.
+<Cutout/z7_GND_34860.pdf, id=3065, 307.07828pt x 264.66472pt>
+File: Cutout/z7_GND_34860.pdf Graphic file (type pdf)
+<use Cutout/z7_GND_34860.pdf>
+Package pdftex.def Info: Cutout/z7_GND_34860.pdf  used on input line 291.
+(pdftex.def)             Requested size: 256.0748pt x 246.72687pt.
+ [40 <./HaProfiles/z7_GND_34860.pdf> <./Cutout/z7_GND_34860.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z7_GND_34860.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z7_GND_34730.pdf, id=3164, 772.29152pt x 496.11201pt>
+File: HaProfiles/z7_GND_34730.pdf Graphic file (type pdf)
+<use HaProfiles/z7_GND_34730.pdf>
+Package pdftex.def Info: HaProfiles/z7_GND_34730.pdf  used on input line 297.
+(pdftex.def)             Requested size: 341.43306pt x 232.77023pt.
+<Cutout/z7_GND_34730.pdf, id=3165, 305.31659pt x 265.88307pt>
+File: Cutout/z7_GND_34730.pdf Graphic file (type pdf)
+<use Cutout/z7_GND_34730.pdf>
+Package pdftex.def Info: Cutout/z7_GND_34730.pdf  used on input line 298.
+(pdftex.def)             Requested size: 256.0748pt x 249.18507pt.
+ [41 <./HaProfiles/z7_GND_34730.pdf> <./Cutout/z7_GND_34730.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z7_GND_34730.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_13996.pdf, id=3264, 771.82101pt x 496.11201pt>
+File: HaProfiles/z5_GND_13996.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_13996.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_13996.pdf  used on input line 304.
+(pdftex.def)             Requested size: 341.43306pt x 232.90631pt.
+<Cutout/z5_GND_13996.pdf, id=3265, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_13996.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_13996.pdf>
+Package pdftex.def Info: Cutout/z5_GND_13996.pdf  used on input line 305.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [42 <./HaProfiles/z5_GND_13996.pdf> <./Cutout/z5_GND_13996.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_13996.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z7_GND_11401.png, id=3363, 736.4313pt x 460.3599pt>
+File: LyaProfiles/z7_GND_11401.png Graphic file (type png)
+<use LyaProfiles/z7_GND_11401.png>
+Package pdftex.def Info: LyaProfiles/z7_GND_11401.png  used on input line 311.
+(pdftex.def)             Requested size: 341.43306pt x 227.51183pt.
+<Cutout/z7_GND_11401.pdf, id=3364, 305.31659pt x 264.66472pt>
+File: Cutout/z7_GND_11401.pdf Graphic file (type pdf)
+<use Cutout/z7_GND_11401.pdf>
+Package pdftex.def Info: Cutout/z7_GND_11401.pdf  used on input line 312.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [43 <./LyaProfiles/z7_GND_11401.png> <./Cutout/z7_GND_11401.pdf>]
+<LyaProfiles/z6_GND_44831.png, id=3399, 767.14606pt x 521.0667pt>
+File: LyaProfiles/z6_GND_44831.png Graphic file (type png)
+<use LyaProfiles/z6_GND_44831.png>
+Package pdftex.def Info: LyaProfiles/z6_GND_44831.png  used on input line 318.
+(pdftex.def)             Requested size: 341.43306pt x 245.48708pt.
+<Cutout/z6_GND_44831.pdf, id=3400, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_44831.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_44831.pdf>
+Package pdftex.def Info: Cutout/z6_GND_44831.pdf  used on input line 319.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [44 <./LyaProfiles/z6_GND_44831.png> <./Cutout/z6_GND_44831.pdf>]
+<LyaProfiles/z7_GND_43678.png, id=3435, 757.75095pt x 521.0667pt>
+File: LyaProfiles/z7_GND_43678.png Graphic file (type png)
+<use LyaProfiles/z7_GND_43678.png>
+Package pdftex.def Info: LyaProfiles/z7_GND_43678.png  used on input line 325.
+(pdftex.def)             Requested size: 341.43306pt x 248.54759pt.
+<Cutout/z7_GND_43678.pdf, id=3436, 305.31659pt x 264.66472pt>
+File: Cutout/z7_GND_43678.pdf Graphic file (type pdf)
+<use Cutout/z7_GND_43678.pdf>
+Package pdftex.def Info: Cutout/z7_GND_43678.pdf  used on input line 326.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [45 <./LyaProfiles/z7_GND_43678.png> <./Cutout/z7_GND_43678.pdf>]
+<HaProfiles/z6_GND_7095.pdf, id=3470, 781.49779pt x 496.11201pt>
+File: HaProfiles/z6_GND_7095.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_7095.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_7095.pdf  used on input line 332.
+(pdftex.def)             Requested size: 341.43306pt x 230.0248pt.
+<Cutout/z6_GND_7095.pdf, id=3471, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_7095.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_7095.pdf>
+Package pdftex.def Info: Cutout/z6_GND_7095.pdf  used on input line 333.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [46 <./HaProfiles/z6_GND_7095.pdf> <./Cutout/z6_GND_7095.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_7095.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z7_GND_41647.pdf, id=3570, 781.49779pt x 496.11201pt>
+File: HaProfiles/z7_GND_41647.pdf Graphic file (type pdf)
+<use HaProfiles/z7_GND_41647.pdf>
+Package pdftex.def Info: HaProfiles/z7_GND_41647.pdf  used on input line 339.
+(pdftex.def)             Requested size: 341.43306pt x 230.0248pt.
+<Cutout/z7_GND_41647.pdf, id=3571, 312.8365pt x 264.66472pt>
+File: Cutout/z7_GND_41647.pdf Graphic file (type pdf)
+<use Cutout/z7_GND_41647.pdf>
+Package pdftex.def Info: Cutout/z7_GND_41647.pdf  used on input line 340.
+(pdftex.def)             Requested size: 256.0748pt x 242.15138pt.
+ [47 <./HaProfiles/z7_GND_41647.pdf> <./Cutout/z7_GND_41647.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z7_GND_41647.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z7_GND_15642.pdf, id=3670, 753.87898pt x 496.11201pt>
+File: HaProfiles/z7_GND_15642.pdf Graphic file (type pdf)
+<use HaProfiles/z7_GND_15642.pdf>
+Package pdftex.def Info: HaProfiles/z7_GND_15642.pdf  used on input line 346.
+(pdftex.def)             Requested size: 341.43306pt x 238.46922pt.
+<Cutout/z7_GND_15642.pdf, id=3671, 305.31659pt x 264.66472pt>
+File: Cutout/z7_GND_15642.pdf Graphic file (type pdf)
+<use Cutout/z7_GND_15642.pdf>
+Package pdftex.def Info: Cutout/z7_GND_15642.pdf  used on input line 347.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [48 <./HaProfiles/z7_GND_15642.pdf> <./Cutout/z7_GND_15642.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z7_GND_15642.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z7_GND_8358.png, id=3770, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z7_GND_8358.png Graphic file (type png)
+<use LyaProfiles/z7_GND_8358.png>
+Package pdftex.def Info: LyaProfiles/z7_GND_8358.png  used on input line 353.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<HaProfiles/z7_GND_8358.pdf, id=3771, 776.86617pt x 496.11201pt>
+File: HaProfiles/z7_GND_8358.pdf Graphic file (type pdf)
+<use HaProfiles/z7_GND_8358.pdf>
+Package pdftex.def Info: HaProfiles/z7_GND_8358.pdf  used on input line 354.
+(pdftex.def)             Requested size: 341.43306pt x 231.39351pt.
+<Cutout/z7_GND_8358.pdf, id=3772, 305.31659pt x 264.66472pt>
+File: Cutout/z7_GND_8358.pdf Graphic file (type pdf)
+<use Cutout/z7_GND_8358.pdf>
+Package pdftex.def Info: Cutout/z7_GND_8358.pdf  used on input line 355.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+
+
+LaTeX Warning: Float too large for page by 72.8549pt on input line 358.
+
+[49 <./LyaProfiles/z7_GND_8358.png> <./HaProfiles/z7_GND_8358.pdf> <./Cutout/z7
+_GND_8358.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z7_GND_8358.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z5_GNW_32760.png, id=3873, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GNW_32760.png Graphic file (type png)
+<use LyaProfiles/z5_GNW_32760.png>
+Package pdftex.def Info: LyaProfiles/z5_GNW_32760.png  used on input line 361.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z5_GNW_32760.pdf, id=3874, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GNW_32760.pdf Graphic file (type pdf)
+<use Cutout/z5_GNW_32760.pdf>
+Package pdftex.def Info: Cutout/z5_GNW_32760.pdf  used on input line 362.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [50 <./LyaProfiles/z5_GNW_32760.png> <./Cutout/z5_GNW_32760.pdf>]
+<LyaProfiles/z5_GNW_29609.png, id=3909, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GNW_29609.png Graphic file (type png)
+<use LyaProfiles/z5_GNW_29609.png>
+Package pdftex.def Info: LyaProfiles/z5_GNW_29609.png  used on input line 368.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z5_GNW_29609.pdf, id=3910, 306.55104pt x 264.66472pt>
+File: Cutout/z5_GNW_29609.pdf Graphic file (type pdf)
+<use Cutout/z5_GNW_29609.pdf>
+Package pdftex.def Info: Cutout/z5_GNW_29609.pdf  used on input line 369.
+(pdftex.def)             Requested size: 256.0748pt x 247.1607pt.
+ [51 <./LyaProfiles/z5_GNW_29609.png> <./Cutout/z5_GNW_29609.pdf>]
+<LyaProfiles/z5_GNW_20906.png, id=3944, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GNW_20906.png Graphic file (type png)
+<use LyaProfiles/z5_GNW_20906.png>
+Package pdftex.def Info: LyaProfiles/z5_GNW_20906.png  used on input line 375.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z5_GNW_20906.pdf, id=3945, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GNW_20906.pdf Graphic file (type pdf)
+<use Cutout/z5_GNW_20906.pdf>
+Package pdftex.def Info: Cutout/z5_GNW_20906.pdf  used on input line 376.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [52 <./LyaProfiles/z5_GNW_20906.png> <./Cutout/z5_GNW_20906.pdf>]
+<LyaProfiles/z5_GNW_22490.png, id=3980, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GNW_22490.png Graphic file (type png)
+<use LyaProfiles/z5_GNW_22490.png>
+Package pdftex.def Info: LyaProfiles/z5_GNW_22490.png  used on input line 382.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z5_GNW_22490.pdf, id=3981, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GNW_22490.pdf Graphic file (type pdf)
+<use Cutout/z5_GNW_22490.pdf>
+Package pdftex.def Info: Cutout/z5_GNW_22490.pdf  used on input line 383.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [53 <./LyaProfiles/z5_GNW_22490.png> <./Cutout/z5_GNW_22490.pdf>]
+<LyaProfiles/z5_GNW_21283.png, id=4016, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GNW_21283.png Graphic file (type png)
+<use LyaProfiles/z5_GNW_21283.png>
+Package pdftex.def Info: LyaProfiles/z5_GNW_21283.png  used on input line 389.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z5_GNW_21283.pdf, id=4017, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GNW_21283.pdf Graphic file (type pdf)
+<use Cutout/z5_GNW_21283.pdf>
+Package pdftex.def Info: Cutout/z5_GNW_21283.pdf  used on input line 390.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [54 <./LyaProfiles/z5_GNW_21283.png> <./Cutout/z5_GNW_21283.pdf>]
+<LyaProfiles/z5_GNW_23042.png, id=4052, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GNW_23042.png Graphic file (type png)
+<use LyaProfiles/z5_GNW_23042.png>
+Package pdftex.def Info: LyaProfiles/z5_GNW_23042.png  used on input line 396.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z5_GNW_23042.pdf, id=4053, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GNW_23042.pdf Graphic file (type pdf)
+<use Cutout/z5_GNW_23042.pdf>
+Package pdftex.def Info: Cutout/z5_GNW_23042.pdf  used on input line 397.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [55 <./LyaProfiles/z5_GNW_23042.png> <./Cutout/z5_GNW_23042.pdf>]
+<LyaProfiles/z5_GNW_21219.png, id=4089, 756.6669pt x 521.0667pt>
+File: LyaProfiles/z5_GNW_21219.png Graphic file (type png)
+<use LyaProfiles/z5_GNW_21219.png>
+Package pdftex.def Info: LyaProfiles/z5_GNW_21219.png  used on input line 403.
+(pdftex.def)             Requested size: 341.43306pt x 248.89137pt.
+<Cutout/z5_GNW_21219.pdf, id=4090, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GNW_21219.pdf Graphic file (type pdf)
+<use Cutout/z5_GNW_21219.pdf>
+Package pdftex.def Info: Cutout/z5_GNW_21219.pdf  used on input line 404.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [56 <./LyaProfiles/z5_GNW_21219.png> <./Cutout/z5_GNW_21219.pdf>]
+<LyaProfiles/z5_GNW_7098.png, id=4125, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GNW_7098.png Graphic file (type png)
+<use LyaProfiles/z5_GNW_7098.png>
+Package pdftex.def Info: LyaProfiles/z5_GNW_7098.png  used on input line 410.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z5_GNW_7098.pdf, id=4126, 305.31659pt x 266.8437pt>
+File: Cutout/z5_GNW_7098.pdf Graphic file (type pdf)
+<use Cutout/z5_GNW_7098.pdf>
+Package pdftex.def Info: Cutout/z5_GNW_7098.pdf  used on input line 411.
+(pdftex.def)             Requested size: 256.0748pt x 249.99835pt.
+ [57 <./LyaProfiles/z5_GNW_7098.png> <./Cutout/z5_GNW_7098.pdf>]
+<HaProfiles/z6_GNW_8973.pdf, id=4160, 770.49121pt x 496.11201pt>
+File: HaProfiles/z6_GNW_8973.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GNW_8973.pdf>
+Package pdftex.def Info: HaProfiles/z6_GNW_8973.pdf  used on input line 417.
+(pdftex.def)             Requested size: 341.43306pt x 233.31451pt.
+<Cutout/z6_GNW_8973.pdf, id=4161, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GNW_8973.pdf Graphic file (type pdf)
+<use Cutout/z6_GNW_8973.pdf>
+Package pdftex.def Info: Cutout/z6_GNW_8973.pdf  used on input line 418.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [58 <./HaProfiles/z6_GNW_8973.pdf> <./Cutout/z6_GNW_8973.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GNW_8973.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z5_GNW_1503.png, id=4259, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GNW_1503.png Graphic file (type png)
+<use LyaProfiles/z5_GNW_1503.png>
+Package pdftex.def Info: LyaProfiles/z5_GNW_1503.png  used on input line 424.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z5_GNW_1503.pdf, id=4260, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GNW_1503.pdf Graphic file (type pdf)
+<use Cutout/z5_GNW_1503.pdf>
+Package pdftex.def Info: Cutout/z5_GNW_1503.pdf  used on input line 425.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [59 <./LyaProfiles/z5_GNW_1503.png> <./Cutout/z5_GNW_1503.pdf>]
+<LyaProfiles/z5_GNW_1663.png, id=4295, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GNW_1663.png Graphic file (type png)
+<use LyaProfiles/z5_GNW_1663.png>
+Package pdftex.def Info: LyaProfiles/z5_GNW_1663.png  used on input line 431.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z5_GNW_1663.pdf, id=4296, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GNW_1663.pdf Graphic file (type pdf)
+<use Cutout/z5_GNW_1663.pdf>
+Package pdftex.def Info: Cutout/z5_GNW_1663.pdf  used on input line 432.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [60 <./LyaProfiles/z5_GNW_1663.png> <./Cutout/z5_GNW_1663.pdf>]
+<LyaProfiles/z5_GNW_2438.png, id=4331, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GNW_2438.png Graphic file (type png)
+<use LyaProfiles/z5_GNW_2438.png>
+Package pdftex.def Info: LyaProfiles/z5_GNW_2438.png  used on input line 438.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z5_GNW_2438.pdf, id=4332, 305.31659pt x 268.87439pt>
+File: Cutout/z5_GNW_2438.pdf Graphic file (type pdf)
+<use Cutout/z5_GNW_2438.pdf>
+Package pdftex.def Info: Cutout/z5_GNW_2438.pdf  used on input line 439.
+(pdftex.def)             Requested size: 256.0748pt x 251.71751pt.
+ [61 <./LyaProfiles/z5_GNW_2438.png> <./Cutout/z5_GNW_2438.pdf>]
+<LyaProfiles/z5_GNW_11014.png, id=4368, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GNW_11014.png Graphic file (type png)
+<use LyaProfiles/z5_GNW_11014.png>
+Package pdftex.def Info: LyaProfiles/z5_GNW_11014.png  used on input line 445.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z5_GNW_11014.pdf, id=4369, 309.08607pt x 264.66472pt>
+File: Cutout/z5_GNW_11014.pdf Graphic file (type pdf)
+<use Cutout/z5_GNW_11014.pdf>
+Package pdftex.def Info: Cutout/z5_GNW_11014.pdf  used on input line 446.
+(pdftex.def)             Requested size: 256.0748pt x 245.11673pt.
+ [62 <./LyaProfiles/z5_GNW_11014.png> <./Cutout/z5_GNW_11014.pdf>]
+<LyaProfiles/z5_GNW_11701.png, id=4404, 755.9442pt x 521.0667pt>
+File: LyaProfiles/z5_GNW_11701.png Graphic file (type png)
+<use LyaProfiles/z5_GNW_11701.png>
+Package pdftex.def Info: LyaProfiles/z5_GNW_11701.png  used on input line 452.
+(pdftex.def)             Requested size: 341.43306pt x 249.13454pt.
+<Cutout/z5_GNW_11701.pdf, id=4405, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GNW_11701.pdf Graphic file (type pdf)
+<use Cutout/z5_GNW_11701.pdf>
+Package pdftex.def Info: Cutout/z5_GNW_11701.pdf  used on input line 453.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [63 <./LyaProfiles/z5_GNW_11701.png> <./Cutout/z5_GNW_11701.pdf>]
+<HaProfiles/z5_GNW_13431.pdf, id=4440, 763.08525pt x 496.11201pt>
+File: HaProfiles/z5_GNW_13431.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GNW_13431.pdf>
+Package pdftex.def Info: HaProfiles/z5_GNW_13431.pdf  used on input line 459.
+(pdftex.def)             Requested size: 341.43306pt x 235.5877pt.
+<Cutout/z5_GNW_13431.pdf, id=4441, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GNW_13431.pdf Graphic file (type pdf)
+<use Cutout/z5_GNW_13431.pdf>
+Package pdftex.def Info: Cutout/z5_GNW_13431.pdf  used on input line 460.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [64 <./HaProfiles/z5_GNW_13431.pdf> <./Cutout/z5_GNW_13431.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GNW_13431.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z5_GNW_12482.png, id=4538, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GNW_12482.png Graphic file (type png)
+<use LyaProfiles/z5_GNW_12482.png>
+Package pdftex.def Info: LyaProfiles/z5_GNW_12482.png  used on input line 466.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z5_GNW_12482.pdf, id=4539, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GNW_12482.pdf Graphic file (type pdf)
+<use Cutout/z5_GNW_12482.pdf>
+Package pdftex.def Info: Cutout/z5_GNW_12482.pdf  used on input line 467.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [65 <./LyaProfiles/z5_GNW_12482.png> <./Cutout/z5_GNW_12482.pdf>]
+<HaProfiles/z5_GND_45250.pdf, id=4573, 763.08525pt x 496.11201pt>
+File: HaProfiles/z5_GND_45250.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_45250.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_45250.pdf  used on input line 473.
+(pdftex.def)             Requested size: 341.43306pt x 235.5877pt.
+<Cutout/z5_GND_45250.pdf, id=4574, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_45250.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_45250.pdf>
+Package pdftex.def Info: Cutout/z5_GND_45250.pdf  used on input line 474.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [66 <./HaProfiles/z5_GND_45250.pdf> <./Cutout/z5_GND_45250.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_45250.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z5_GNW_11071.png, id=4672, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GNW_11071.png Graphic file (type png)
+<use LyaProfiles/z5_GNW_11071.png>
+Package pdftex.def Info: LyaProfiles/z5_GNW_11071.png  used on input line 480.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z5_GNW_11071.pdf, id=4673, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GNW_11071.pdf Graphic file (type pdf)
+<use Cutout/z5_GNW_11071.pdf>
+Package pdftex.def Info: Cutout/z5_GNW_11071.pdf  used on input line 481.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [67 <./LyaProfiles/z5_GNW_11071.png> <./Cutout/z5_GNW_11071.pdf>]
+<LyaProfiles/z5_GNW_13514.png, id=4709, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GNW_13514.png Graphic file (type png)
+<use LyaProfiles/z5_GNW_13514.png>
+Package pdftex.def Info: LyaProfiles/z5_GNW_13514.png  used on input line 487.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z5_GNW_13514.pdf, id=4710, 320.32634pt x 264.66472pt>
+File: Cutout/z5_GNW_13514.pdf Graphic file (type pdf)
+<use Cutout/z5_GNW_13514.pdf>
+Package pdftex.def Info: Cutout/z5_GNW_13514.pdf  used on input line 488.
+(pdftex.def)             Requested size: 256.0748pt x 236.43092pt.
+ [68 <./LyaProfiles/z5_GNW_13514.png> <./Cutout/z5_GNW_13514.pdf>]
+<LyaProfiles/z6_GND_30340.png, id=4745, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z6_GND_30340.png Graphic file (type png)
+<use LyaProfiles/z6_GND_30340.png>
+Package pdftex.def Info: LyaProfiles/z6_GND_30340.png  used on input line 494.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z6_GND_30340.pdf, id=4746, 307.64919pt x 264.66472pt>
+File: Cutout/z6_GND_30340.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_30340.pdf>
+Package pdftex.def Info: Cutout/z6_GND_30340.pdf  used on input line 495.
+(pdftex.def)             Requested size: 256.0748pt x 246.27066pt.
+ [69 <./LyaProfiles/z6_GND_30340.png> <./Cutout/z6_GND_30340.pdf>]
+<LyaProfiles/z5_GND_32413.png, id=4779, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GND_32413.png Graphic file (type png)
+<use LyaProfiles/z5_GND_32413.png>
+Package pdftex.def Info: LyaProfiles/z5_GND_32413.png  used on input line 501.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z5_GND_32413.pdf, id=4780, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_32413.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_32413.pdf>
+Package pdftex.def Info: Cutout/z5_GND_32413.pdf  used on input line 502.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [70 <./LyaProfiles/z5_GND_32413.png> <./Cutout/z5_GND_32413.pdf>]
+<HaProfiles/z5_GND_32576.pdf, id=4814, 756.25517pt x 496.11201pt>
+File: HaProfiles/z5_GND_32576.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_32576.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_32576.pdf  used on input line 508.
+(pdftex.def)             Requested size: 341.43306pt x 237.71683pt.
+<Cutout/z5_GND_32576.pdf, id=4815, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_32576.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_32576.pdf>
+Package pdftex.def Info: Cutout/z5_GND_32576.pdf  used on input line 509.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [71 <./HaProfiles/z5_GND_32576.pdf> <./Cutout/z5_GND_32576.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_32576.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_28421.pdf, id=4913, 784.74681pt x 496.11201pt>
+File: HaProfiles/z5_GND_28421.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_28421.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_28421.pdf  used on input line 515.
+(pdftex.def)             Requested size: 341.43306pt x 229.06429pt.
+<Cutout/z5_GND_28421.pdf, id=4914, 305.31659pt x 267.43777pt>
+File: Cutout/z5_GND_28421.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_28421.pdf>
+Package pdftex.def Info: Cutout/z5_GND_28421.pdf  used on input line 516.
+(pdftex.def)             Requested size: 256.0748pt x 250.50128pt.
+ [72 <./HaProfiles/z5_GND_28421.pdf> <./Cutout/z5_GND_28421.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_28421.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_24948.pdf, id=5011, 754.82582pt x 496.11201pt>
+File: HaProfiles/z5_GND_24948.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_24948.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_24948.pdf  used on input line 522.
+(pdftex.def)             Requested size: 341.43306pt x 238.17307pt.
+<Cutout/z5_GND_24948.pdf, id=5012, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_24948.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_24948.pdf>
+Package pdftex.def Info: Cutout/z5_GND_24948.pdf  used on input line 523.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [73 <./HaProfiles/z5_GND_24948.pdf> <./Cutout/z5_GND_24948.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_24948.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_28981.pdf, id=5112, 775.20267pt x 496.11201pt>
+File: HaProfiles/z5_GND_28981.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_28981.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_28981.pdf  used on input line 529.
+(pdftex.def)             Requested size: 341.43306pt x 231.88977pt.
+<Cutout/z5_GND_28981.pdf, id=5113, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_28981.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_28981.pdf>
+Package pdftex.def Info: Cutout/z5_GND_28981.pdf  used on input line 530.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [74 <./HaProfiles/z5_GND_28981.pdf> <./Cutout/z5_GND_28981.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_28981.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_18617.pdf, id=5212, 751.53325pt x 496.11201pt>
+File: HaProfiles/z5_GND_18617.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_18617.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_18617.pdf  used on input line 536.
+(pdftex.def)             Requested size: 341.43306pt x 239.22963pt.
+<Cutout/z5_GND_18617.pdf, id=5213, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_18617.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_18617.pdf>
+Package pdftex.def Info: Cutout/z5_GND_18617.pdf  used on input line 537.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [75 <./HaProfiles/z5_GND_18617.pdf> <./Cutout/z5_GND_18617.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_18617.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_20890.pdf, id=5311, 775.11751pt x 496.11201pt>
+File: HaProfiles/z5_GND_20890.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_20890.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_20890.pdf  used on input line 543.
+(pdftex.def)             Requested size: 341.43306pt x 231.92178pt.
+<Cutout/z5_GND_20890.pdf, id=5312, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_20890.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_20890.pdf>
+Package pdftex.def Info: Cutout/z5_GND_20890.pdf  used on input line 544.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [76 <./HaProfiles/z5_GND_20890.pdf> <./Cutout/z5_GND_20890.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_20890.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z5_GND_23860.png, id=5411, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GND_23860.png Graphic file (type png)
+<use LyaProfiles/z5_GND_23860.png>
+Package pdftex.def Info: LyaProfiles/z5_GND_23860.png  used on input line 550.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z5_GND_23860.pdf, id=5412, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_23860.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_23860.pdf>
+Package pdftex.def Info: Cutout/z5_GND_23860.pdf  used on input line 551.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [77 <./LyaProfiles/z5_GND_23860.png> <./Cutout/z5_GND_23860.pdf>]
+<HaProfiles/z5_GND_16389.pdf, id=5446, 756.1199pt x 496.11201pt>
+File: HaProfiles/z5_GND_16389.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_16389.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_16389.pdf  used on input line 557.
+(pdftex.def)             Requested size: 341.43306pt x 237.77286pt.
+<Cutout/z5_GND_16389.pdf, id=5447, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_16389.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_16389.pdf>
+Package pdftex.def Info: Cutout/z5_GND_16389.pdf  used on input line 558.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [78 <./HaProfiles/z5_GND_16389.pdf> <./Cutout/z5_GND_16389.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_16389.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_15025.pdf, id=5546, 764.25864pt x 496.11201pt>
+File: HaProfiles/z5_GND_15025.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_15025.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_15025.pdf  used on input line 564.
+(pdftex.def)             Requested size: 341.43306pt x 235.21951pt.
+<Cutout/z5_GND_15025.pdf, id=5547, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_15025.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_15025.pdf>
+Package pdftex.def Info: Cutout/z5_GND_15025.pdf  used on input line 565.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [79 <./HaProfiles/z5_GND_15025.pdf> <./Cutout/z5_GND_15025.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_15025.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z6_GND_13524.pdf, id=5647, 773.68478pt x 496.11201pt>
+File: HaProfiles/z6_GND_13524.pdf Graphic file (type pdf)
+<use HaProfiles/z6_GND_13524.pdf>
+Package pdftex.def Info: HaProfiles/z6_GND_13524.pdf  used on input line 571.
+(pdftex.def)             Requested size: 341.43306pt x 232.35402pt.
+<Cutout/z6_GND_13524.pdf, id=5648, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GND_13524.pdf Graphic file (type pdf)
+<use Cutout/z6_GND_13524.pdf>
+Package pdftex.def Info: Cutout/z6_GND_13524.pdf  used on input line 572.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [80 <./HaProfiles/z6_GND_13524.pdf> <./Cutout/z6_GND_13524.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z6_GND_13524.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_14131.pdf, id=5747, 754.76541pt x 496.11201pt>
+File: HaProfiles/z5_GND_14131.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_14131.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_14131.pdf  used on input line 578.
+(pdftex.def)             Requested size: 341.43306pt x 238.19708pt.
+<Cutout/z5_GND_14131.pdf, id=5748, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_14131.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_14131.pdf>
+Package pdftex.def Info: Cutout/z5_GND_14131.pdf  used on input line 579.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [81 <./HaProfiles/z5_GND_14131.pdf> <./Cutout/z5_GND_14131.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_14131.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_14554.pdf, id=5847, 769.7966pt x 496.11201pt>
+File: HaProfiles/z5_GND_14554.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_14554.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_14554.pdf  used on input line 585.
+(pdftex.def)             Requested size: 341.43306pt x 233.52263pt.
+<Cutout/z5_GND_14554.pdf, id=5848, 311.63162pt x 264.66472pt>
+File: Cutout/z5_GND_14554.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_14554.pdf>
+Package pdftex.def Info: Cutout/z5_GND_14554.pdf  used on input line 586.
+(pdftex.def)             Requested size: 256.0748pt x 243.08168pt.
+ [82 <./HaProfiles/z5_GND_14554.pdf> <./Cutout/z5_GND_14554.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_14554.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_11088.pdf, id=5947, 773.09727pt x 496.11201pt>
+File: HaProfiles/z5_GND_11088.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_11088.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_11088.pdf  used on input line 592.
+(pdftex.def)             Requested size: 341.43306pt x 232.5301pt.
+<Cutout/z5_GND_11088.pdf, id=5948, 305.31659pt x 265.89061pt>
+File: Cutout/z5_GND_11088.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_11088.pdf>
+Package pdftex.def Info: Cutout/z5_GND_11088.pdf  used on input line 593.
+(pdftex.def)             Requested size: 256.0748pt x 249.19145pt.
+ [83 <./HaProfiles/z5_GND_11088.pdf> <./Cutout/z5_GND_11088.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_11088.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z5_GND_3052.png, id=6047, 767.86874pt x 521.0667pt>
+File: LyaProfiles/z5_GND_3052.png Graphic file (type png)
+<use LyaProfiles/z5_GND_3052.png>
+Package pdftex.def Info: LyaProfiles/z5_GND_3052.png  used on input line 599.
+(pdftex.def)             Requested size: 341.43306pt x 245.25229pt.
+<Cutout/z5_GND_3052.pdf, id=6048, 311.15515pt x 264.66472pt>
+File: Cutout/z5_GND_3052.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_3052.pdf>
+Package pdftex.def Info: Cutout/z5_GND_3052.pdf  used on input line 600.
+(pdftex.def)             Requested size: 256.0748pt x 243.47528pt.
+ [84 <./LyaProfiles/z5_GND_3052.png> <./Cutout/z5_GND_3052.pdf>]
+<HaProfiles/z5_GND_40815.pdf, id=6082, 763.78624pt x 496.11201pt>
+File: HaProfiles/z5_GND_40815.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_40815.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_40815.pdf  used on input line 606.
+(pdftex.def)             Requested size: 341.43306pt x 235.3716pt.
+<Cutout/z5_GND_40815.pdf, id=6083, 306.337pt x 264.66472pt>
+File: Cutout/z5_GND_40815.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_40815.pdf>
+Package pdftex.def Info: Cutout/z5_GND_40815.pdf  used on input line 607.
+(pdftex.def)             Requested size: 256.0748pt x 247.33513pt.
+ [85 <./HaProfiles/z5_GND_40815.pdf> <./Cutout/z5_GND_40815.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_40815.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_37378.pdf, id=6182, 756.29327pt x 496.11201pt>
+File: HaProfiles/z5_GND_37378.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_37378.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_37378.pdf  used on input line 613.
+(pdftex.def)             Requested size: 341.43306pt x 237.70883pt.
+<Cutout/z5_GND_37378.pdf, id=6183, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_37378.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_37378.pdf>
+Package pdftex.def Info: Cutout/z5_GND_37378.pdf  used on input line 614.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [86 <./HaProfiles/z5_GND_37378.pdf> <./Cutout/z5_GND_37378.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_37378.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_39635.pdf, id=6281, 744.89786pt x 496.11201pt>
+File: HaProfiles/z5_GND_39635.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_39635.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_39635.pdf  used on input line 620.
+(pdftex.def)             Requested size: 341.43306pt x 241.36674pt.
+<Cutout/z5_GND_39635.pdf, id=6282, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_39635.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_39635.pdf>
+Package pdftex.def Info: Cutout/z5_GND_39635.pdf  used on input line 621.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [87 <./HaProfiles/z5_GND_39635.pdf> <./Cutout/z5_GND_39635.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_39635.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_40117.pdf, id=6381, 763.53824pt x 496.11201pt>
+File: HaProfiles/z5_GND_40117.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_40117.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_40117.pdf  used on input line 627.
+(pdftex.def)             Requested size: 341.43306pt x 235.44363pt.
+<Cutout/z5_GND_40117.pdf, id=6382, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_40117.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_40117.pdf>
+Package pdftex.def Info: Cutout/z5_GND_40117.pdf  used on input line 628.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [88 <./HaProfiles/z5_GND_40117.pdf> <./Cutout/z5_GND_40117.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_40117.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z5_GND_39445.png, id=6481, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GND_39445.png Graphic file (type png)
+<use LyaProfiles/z5_GND_39445.png>
+Package pdftex.def Info: LyaProfiles/z5_GND_39445.png  used on input line 634.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<HaProfiles/z5_GND_39445.pdf, id=6482, 789.45721pt x 496.11201pt>
+File: HaProfiles/z5_GND_39445.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_39445.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_39445.pdf  used on input line 635.
+(pdftex.def)             Requested size: 341.43306pt x 227.68756pt.
+<Cutout/z5_GND_39445.pdf, id=6483, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_39445.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_39445.pdf>
+Package pdftex.def Info: Cutout/z5_GND_39445.pdf  used on input line 636.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+
+
+LaTeX Warning: Float too large for page by 69.14896pt on input line 639.
+
+[89 <./LyaProfiles/z5_GND_39445.png> <./HaProfiles/z5_GND_39445.pdf> <./Cutout/
+z5_GND_39445.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_39445.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_35084.pdf, id=6581, 772.29152pt x 496.11201pt>
+File: HaProfiles/z5_GND_35084.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_35084.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_35084.pdf  used on input line 642.
+(pdftex.def)             Requested size: 341.43306pt x 232.77023pt.
+<Cutout/z5_GND_35084.pdf, id=6582, 305.31659pt x 265.63354pt>
+File: Cutout/z5_GND_35084.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_35084.pdf>
+Package pdftex.def Info: Cutout/z5_GND_35084.pdf  used on input line 643.
+(pdftex.def)             Requested size: 256.0748pt x 248.97382pt.
+ [90 <./HaProfiles/z5_GND_35084.pdf> <./Cutout/z5_GND_35084.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_35084.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_34379.pdf, id=6680, 756.68678pt x 496.11201pt>
+File: HaProfiles/z5_GND_34379.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_34379.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_34379.pdf  used on input line 649.
+(pdftex.def)             Requested size: 341.43306pt x 237.58876pt.
+<Cutout/z5_GND_34379.pdf, id=6681, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_34379.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_34379.pdf>
+Package pdftex.def Info: Cutout/z5_GND_34379.pdf  used on input line 650.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [91 <./HaProfiles/z5_GND_34379.pdf> <./Cutout/z5_GND_34379.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_34379.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_33500.pdf, id=6781, 747.16371pt x 496.11201pt>
+File: HaProfiles/z5_GND_33500.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_33500.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_33500.pdf  used on input line 656.
+(pdftex.def)             Requested size: 341.43306pt x 240.62236pt.
+<Cutout/z5_GND_33500.pdf, id=6782, 306.4526pt x 264.66472pt>
+File: Cutout/z5_GND_33500.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_33500.pdf>
+Package pdftex.def Info: Cutout/z5_GND_33500.pdf  used on input line 657.
+(pdftex.def)             Requested size: 256.0748pt x 247.23674pt.
+ [92 <./HaProfiles/z5_GND_33500.pdf> <./Cutout/z5_GND_33500.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_33500.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_34594.pdf, id=6882, 754.63823pt x 496.11201pt>
+File: HaProfiles/z5_GND_34594.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_34594.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_34594.pdf  used on input line 663.
+(pdftex.def)             Requested size: 341.43306pt x 238.2371pt.
+<Cutout/z5_GND_34594.pdf, id=6883, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_34594.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_34594.pdf>
+Package pdftex.def Info: Cutout/z5_GND_34594.pdf  used on input line 664.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [93 <./HaProfiles/z5_GND_34594.pdf> <./Cutout/z5_GND_34594.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_34594.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_26806.pdf, id=6982, 764.20332pt x 496.11201pt>
+File: HaProfiles/z5_GND_26806.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_26806.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_26806.pdf  used on input line 670.
+(pdftex.def)             Requested size: 341.43306pt x 235.24353pt.
+<Cutout/z5_GND_26806.pdf, id=6983, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_26806.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_26806.pdf>
+Package pdftex.def Info: Cutout/z5_GND_26806.pdf  used on input line 671.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [94 <./HaProfiles/z5_GND_26806.pdf> <./Cutout/z5_GND_26806.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_26806.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_27870.pdf, id=7082, 746.3326pt x 496.11201pt>
+File: HaProfiles/z5_GND_27870.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_27870.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_27870.pdf  used on input line 677.
+(pdftex.def)             Requested size: 341.43306pt x 240.8945pt.
+<Cutout/z5_GND_27870.pdf, id=7083, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_27870.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_27870.pdf>
+Package pdftex.def Info: Cutout/z5_GND_27870.pdf  used on input line 678.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [95 <./HaProfiles/z5_GND_27870.pdf> <./Cutout/z5_GND_27870.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_27870.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_18697.pdf, id=7181, 773.21465pt x 496.11201pt>
+File: HaProfiles/z5_GND_18697.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_18697.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_18697.pdf  used on input line 684.
+(pdftex.def)             Requested size: 341.43306pt x 232.49008pt.
+<Cutout/z5_GND_18697.pdf, id=7182, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_18697.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_18697.pdf>
+Package pdftex.def Info: Cutout/z5_GND_18697.pdf  used on input line 685.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [96 <./HaProfiles/z5_GND_18697.pdf> <./Cutout/z5_GND_18697.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_18697.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_16018.pdf, id=7282, 763.08525pt x 496.11201pt>
+File: HaProfiles/z5_GND_16018.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_16018.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_16018.pdf  used on input line 691.
+(pdftex.def)             Requested size: 341.43306pt x 235.5877pt.
+<Cutout/z5_GND_16018.pdf, id=7283, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_16018.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_16018.pdf>
+Package pdftex.def Info: Cutout/z5_GND_16018.pdf  used on input line 692.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [97 <./HaProfiles/z5_GND_16018.pdf> <./Cutout/z5_GND_16018.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_16018.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_12659.pdf, id=7383, 764.10518pt x 496.11201pt>
+File: HaProfiles/z5_GND_12659.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_12659.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_12659.pdf  used on input line 698.
+(pdftex.def)             Requested size: 341.43306pt x 235.26755pt.
+<Cutout/z5_GND_12659.pdf, id=7384, 309.13365pt x 264.66472pt>
+File: Cutout/z5_GND_12659.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_12659.pdf>
+Package pdftex.def Info: Cutout/z5_GND_12659.pdf  used on input line 699.
+(pdftex.def)             Requested size: 256.0748pt x 245.06752pt.
+ [98 <./HaProfiles/z5_GND_12659.pdf> <./Cutout/z5_GND_12659.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_12659.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_11789.pdf, id=7483, 764.1507pt x 496.11201pt>
+File: HaProfiles/z5_GND_11789.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_11789.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_11789.pdf  used on input line 705.
+(pdftex.def)             Requested size: 341.43306pt x 235.25954pt.
+<Cutout/z5_GND_11789.pdf, id=7484, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_11789.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_11789.pdf>
+Package pdftex.def Info: Cutout/z5_GND_11789.pdf  used on input line 706.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [99 <./HaProfiles/z5_GND_11789.pdf> <./Cutout/z5_GND_11789.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_11789.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_12705.pdf, id=7582, 763.99466pt x 496.11201pt>
+File: HaProfiles/z5_GND_12705.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_12705.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_12705.pdf  used on input line 712.
+(pdftex.def)             Requested size: 341.43306pt x 235.30757pt.
+<Cutout/z5_GND_12705.pdf, id=7583, 308.15205pt x 264.66472pt>
+File: Cutout/z5_GND_12705.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_12705.pdf>
+Package pdftex.def Info: Cutout/z5_GND_12705.pdf  used on input line 713.
+(pdftex.def)             Requested size: 256.0748pt x 245.86812pt.
+ [100 <./HaProfiles/z5_GND_12705.pdf> <./Cutout/z5_GND_12705.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_12705.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_12062.pdf, id=7681, 763.08525pt x 496.11201pt>
+File: HaProfiles/z5_GND_12062.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_12062.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_12062.pdf  used on input line 719.
+(pdftex.def)             Requested size: 341.43306pt x 235.5877pt.
+<Cutout/z5_GND_12062.pdf, id=7682, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_12062.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_12062.pdf>
+Package pdftex.def Info: Cutout/z5_GND_12062.pdf  used on input line 720.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [101 <./HaProfiles/z5_GND_12062.pdf> <./Cutout/z5_GND_12062.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_12062.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z5_GND_10047.png, id=7781, 767.86874pt x 521.0667pt>
+File: LyaProfiles/z5_GND_10047.png Graphic file (type png)
+<use LyaProfiles/z5_GND_10047.png>
+Package pdftex.def Info: LyaProfiles/z5_GND_10047.png  used on input line 726.
+(pdftex.def)             Requested size: 341.43306pt x 245.25229pt.
+<Cutout/z5_GND_10047.pdf, id=7782, 305.31659pt x 266.84222pt>
+File: Cutout/z5_GND_10047.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_10047.pdf>
+Package pdftex.def Info: Cutout/z5_GND_10047.pdf  used on input line 727.
+(pdftex.def)             Requested size: 256.0748pt x 249.9971pt.
+ [102 <./LyaProfiles/z5_GND_10047.png> <./Cutout/z5_GND_10047.pdf>]
+<HaProfiles/z5_GND_44836.pdf, id=7816, 754.1195pt x 496.11201pt>
+File: HaProfiles/z5_GND_44836.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_44836.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_44836.pdf  used on input line 733.
+(pdftex.def)             Requested size: 341.43306pt x 238.4052pt.
+<Cutout/z5_GND_44836.pdf, id=7817, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_44836.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_44836.pdf>
+Package pdftex.def Info: Cutout/z5_GND_44836.pdf  used on input line 734.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [103 <./HaProfiles/z5_GND_44836.pdf> <./Cutout/z5_GND_44836.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_44836.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_8641.pdf, id=7916, 764.16736pt x 496.11201pt>
+File: HaProfiles/z5_GND_8641.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_8641.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_8641.pdf  used on input line 740.
+(pdftex.def)             Requested size: 341.43306pt x 235.25154pt.
+<Cutout/z5_GND_8641.pdf, id=7917, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_8641.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_8641.pdf>
+Package pdftex.def Info: Cutout/z5_GND_8641.pdf  used on input line 741.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [104 <./HaProfiles/z5_GND_8641.pdf> <./Cutout/z5_GND_8641.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_8641.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_44411.pdf, id=8016, 768.44058pt x 496.11201pt>
+File: HaProfiles/z5_GND_44411.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_44411.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_44411.pdf  used on input line 747.
+(pdftex.def)             Requested size: 341.43306pt x 233.94685pt.
+<Cutout/z5_GND_44411.pdf, id=8017, 305.31659pt x 264.94727pt>
+File: Cutout/z5_GND_44411.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_44411.pdf>
+Package pdftex.def Info: Cutout/z5_GND_44411.pdf  used on input line 748.
+(pdftex.def)             Requested size: 256.0748pt x 248.39282pt.
+ [105 <./HaProfiles/z5_GND_44411.pdf> <./Cutout/z5_GND_44411.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_44411.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_6005.pdf, id=8115, 781.49779pt x 496.11201pt>
+File: HaProfiles/z5_GND_6005.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_6005.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_6005.pdf  used on input line 754.
+(pdftex.def)             Requested size: 341.43306pt x 230.0248pt.
+<Cutout/z5_GND_6005.pdf, id=8116, 305.8419pt x 264.66472pt>
+File: Cutout/z5_GND_6005.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_6005.pdf>
+Package pdftex.def Info: Cutout/z5_GND_6005.pdf  used on input line 755.
+(pdftex.def)             Requested size: 256.0748pt x 247.74661pt.
+ [106 <./HaProfiles/z5_GND_6005.pdf> <./Cutout/z5_GND_6005.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_6005.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_42189.pdf, id=8216, 773.36101pt x 496.11201pt>
+File: HaProfiles/z5_GND_42189.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_42189.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_42189.pdf  used on input line 761.
+(pdftex.def)             Requested size: 341.43306pt x 232.45006pt.
+<Cutout/z5_GND_42189.pdf, id=8217, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_42189.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_42189.pdf>
+Package pdftex.def Info: Cutout/z5_GND_42189.pdf  used on input line 762.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [107 <./HaProfiles/z5_GND_42189.pdf> <./Cutout/z5_GND_42189.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_42189.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_32925.pdf, id=8316, 772.8916pt x 496.11201pt>
+File: HaProfiles/z5_GND_32925.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_32925.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_32925.pdf  used on input line 768.
+(pdftex.def)             Requested size: 341.43306pt x 232.58614pt.
+<Cutout/z5_GND_32925.pdf, id=8317, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_32925.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_32925.pdf>
+Package pdftex.def Info: Cutout/z5_GND_32925.pdf  used on input line 769.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [108 <./HaProfiles/z5_GND_32925.pdf> <./Cutout/z5_GND_32925.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_32925.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_29527.pdf, id=8416, 763.08525pt x 496.11201pt>
+File: HaProfiles/z5_GND_29527.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_29527.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_29527.pdf  used on input line 775.
+(pdftex.def)             Requested size: 341.43306pt x 235.5877pt.
+<Cutout/z5_GND_29527.pdf, id=8417, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_29527.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_29527.pdf>
+Package pdftex.def Info: Cutout/z5_GND_29527.pdf  used on input line 776.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [109 <./HaProfiles/z5_GND_29527.pdf> <./Cutout/z5_GND_29527.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_29527.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_27366.pdf, id=8517, 772.71669pt x 496.11201pt>
+File: HaProfiles/z5_GND_27366.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_27366.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_27366.pdf  used on input line 782.
+(pdftex.def)             Requested size: 341.43306pt x 232.64217pt.
+<Cutout/z5_GND_27366.pdf, id=8518, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_27366.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_27366.pdf>
+Package pdftex.def Info: Cutout/z5_GND_27366.pdf  used on input line 783.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [110 <./HaProfiles/z5_GND_27366.pdf> <./Cutout/z5_GND_27366.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_27366.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_26558.pdf, id=8618, 753.9038pt x 496.11201pt>
+File: HaProfiles/z5_GND_26558.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_26558.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_26558.pdf  used on input line 789.
+(pdftex.def)             Requested size: 341.43306pt x 238.46922pt.
+<Cutout/z5_GND_26558.pdf, id=8619, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_26558.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_26558.pdf>
+Package pdftex.def Info: Cutout/z5_GND_26558.pdf  used on input line 790.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [111 <./HaProfiles/z5_GND_26558.pdf> <./Cutout/z5_GND_26558.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_26558.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_25578.pdf, id=8717, 779.17926pt x 496.11201pt>
+File: HaProfiles/z5_GND_25578.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_25578.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_25578.pdf  used on input line 796.
+(pdftex.def)             Requested size: 341.43306pt x 230.70515pt.
+<Cutout/z5_GND_25578.pdf, id=8718, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_25578.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_25578.pdf>
+Package pdftex.def Info: Cutout/z5_GND_25578.pdf  used on input line 797.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [112 <./HaProfiles/z5_GND_25578.pdf> <./Cutout/z5_GND_25578.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_25578.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z5_GND_27819.png, id=8817, 756.6669pt x 521.0667pt>
+File: LyaProfiles/z5_GND_27819.png Graphic file (type png)
+<use LyaProfiles/z5_GND_27819.png>
+Package pdftex.def Info: LyaProfiles/z5_GND_27819.png  used on input line 803.
+(pdftex.def)             Requested size: 341.43306pt x 248.89137pt.
+<HaProfiles/z5_GND_27819.pdf, id=8818, 762.45068pt x 496.11201pt>
+File: HaProfiles/z5_GND_27819.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_27819.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_27819.pdf  used on input line 804.
+(pdftex.def)             Requested size: 341.43306pt x 235.78781pt.
+<Cutout/z5_GND_27819.pdf, id=8819, 305.31659pt x 264.86386pt>
+File: Cutout/z5_GND_27819.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_27819.pdf>
+Package pdftex.def Info: Cutout/z5_GND_27819.pdf  used on input line 805.
+(pdftex.def)             Requested size: 256.0748pt x 248.32222pt.
+
+
+LaTeX Warning: Float too large for page by 74.99454pt on input line 808.
+
+[113 <./LyaProfiles/z5_GND_27819.png> <./HaProfiles/z5_GND_27819.pdf> <./Cutout
+/z5_GND_27819.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_27819.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_23450.pdf, id=8918, 776.00792pt x 496.11201pt>
+File: HaProfiles/z5_GND_23450.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_23450.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_23450.pdf  used on input line 811.
+(pdftex.def)             Requested size: 341.43306pt x 231.64964pt.
+<Cutout/z5_GND_23450.pdf, id=8919, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_23450.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_23450.pdf>
+Package pdftex.def Info: Cutout/z5_GND_23450.pdf  used on input line 812.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [114 <./HaProfiles/z5_GND_23450.pdf> <./Cutout/z5_GND_23450.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_23450.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_21873.pdf, id=9018, 768.20349pt x 496.11201pt>
+File: HaProfiles/z5_GND_21873.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_21873.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_21873.pdf  used on input line 818.
+(pdftex.def)             Requested size: 341.43306pt x 234.01088pt.
+<Cutout/z5_GND_21873.pdf, id=9019, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_21873.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_21873.pdf>
+Package pdftex.def Info: Cutout/z5_GND_21873.pdf  used on input line 819.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [115 <./HaProfiles/z5_GND_21873.pdf> <./Cutout/z5_GND_21873.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_21873.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_21641.pdf, id=9118, 763.57959pt x 496.11201pt>
+File: HaProfiles/z5_GND_21641.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_21641.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_21641.pdf  used on input line 825.
+(pdftex.def)             Requested size: 341.43306pt x 235.43564pt.
+<Cutout/z5_GND_21641.pdf, id=9119, 305.31659pt x 267.43367pt>
+File: Cutout/z5_GND_21641.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_21641.pdf>
+Package pdftex.def Info: Cutout/z5_GND_21641.pdf  used on input line 826.
+(pdftex.def)             Requested size: 256.0748pt x 250.49782pt.
+ [116 <./HaProfiles/z5_GND_21641.pdf> <./Cutout/z5_GND_21641.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_21641.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z5_GND_21153.png, id=9217, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GND_21153.png Graphic file (type png)
+<use LyaProfiles/z5_GND_21153.png>
+Package pdftex.def Info: LyaProfiles/z5_GND_21153.png  used on input line 832.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<HaProfiles/z5_GND_21153.pdf, id=9218, 777.0934pt x 496.11201pt>
+File: HaProfiles/z5_GND_21153.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_21153.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_21153.pdf  used on input line 833.
+(pdftex.def)             Requested size: 341.43306pt x 231.32948pt.
+<Cutout/z5_GND_21153.pdf, id=9219, 305.31659pt x 268.86186pt>
+File: Cutout/z5_GND_21153.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_21153.pdf>
+Package pdftex.def Info: Cutout/z5_GND_21153.pdf  used on input line 834.
+(pdftex.def)             Requested size: 256.0748pt x 251.70691pt.
+
+
+LaTeX Warning: Float too large for page by 76.34416pt on input line 837.
+
+[117 <./LyaProfiles/z5_GND_21153.png> <./HaProfiles/z5_GND_21153.pdf> <./Cutout
+/z5_GND_21153.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_21153.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_13494.pdf, id=9317, 785.58429pt x 496.11201pt>
+File: HaProfiles/z5_GND_13494.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_13494.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_13494.pdf  used on input line 840.
+(pdftex.def)             Requested size: 341.43306pt x 228.81616pt.
+<Cutout/z5_GND_13494.pdf, id=9318, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_13494.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_13494.pdf>
+Package pdftex.def Info: Cutout/z5_GND_13494.pdf  used on input line 841.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [118 <./HaProfiles/z5_GND_13494.pdf> <./Cutout/z5_GND_13494.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_13494.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_16723.pdf, id=9417, 763.27805pt x 496.11201pt>
+File: HaProfiles/z5_GND_16723.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_16723.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_16723.pdf  used on input line 847.
+(pdftex.def)             Requested size: 341.43306pt x 235.53168pt.
+<Cutout/z5_GND_16723.pdf, id=9418, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_16723.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_16723.pdf>
+Package pdftex.def Info: Cutout/z5_GND_16723.pdf  used on input line 848.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [119 <./HaProfiles/z5_GND_16723.pdf> <./Cutout/z5_GND_16723.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_16723.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_45273.pdf, id=9517, 763.08525pt x 496.11201pt>
+File: HaProfiles/z5_GND_45273.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_45273.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_45273.pdf  used on input line 854.
+(pdftex.def)             Requested size: 341.43306pt x 235.5877pt.
+<Cutout/z5_GND_45273.pdf, id=9518, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_45273.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_45273.pdf>
+Package pdftex.def Info: Cutout/z5_GND_45273.pdf  used on input line 855.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [120 <./HaProfiles/z5_GND_45273.pdf> <./Cutout/z5_GND_45273.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_45273.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z6_GNW_21823.png, id=9617, 767.86874pt x 521.0667pt>
+File: LyaProfiles/z6_GNW_21823.png Graphic file (type png)
+<use LyaProfiles/z6_GNW_21823.png>
+Package pdftex.def Info: LyaProfiles/z6_GNW_21823.png  used on input line 861.
+(pdftex.def)             Requested size: 341.43306pt x 245.25229pt.
+<Cutout/z6_GNW_21823.pdf, id=9618, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GNW_21823.pdf Graphic file (type pdf)
+<use Cutout/z6_GNW_21823.pdf>
+Package pdftex.def Info: Cutout/z6_GNW_21823.pdf  used on input line 862.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [121 <./LyaProfiles/z6_GNW_21823.png> <./Cutout/z6_GNW_21823.pdf>]
+<LyaProfiles/z6_GNW_9770.png, id=9653, 731.3724pt x 460.3599pt>
+File: LyaProfiles/z6_GNW_9770.png Graphic file (type png)
+<use LyaProfiles/z6_GNW_9770.png>
+Package pdftex.def Info: LyaProfiles/z6_GNW_9770.png  used on input line 868.
+(pdftex.def)             Requested size: 341.43306pt x 229.09306pt.
+<Cutout/z6_GNW_9770.pdf, id=9654, 305.31659pt x 264.66472pt>
+File: Cutout/z6_GNW_9770.pdf Graphic file (type pdf)
+<use Cutout/z6_GNW_9770.pdf>
+Package pdftex.def Info: Cutout/z6_GNW_9770.pdf  used on input line 869.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [122 <./LyaProfiles/z6_GNW_9770.png> <./Cutout/z6_GNW_9770.pdf>]
+<LyaProfiles/z5_GND_17752.png, id=9689, 749.80125pt x 521.0667pt>
+File: LyaProfiles/z5_GND_17752.png Graphic file (type png)
+<use LyaProfiles/z5_GND_17752.png>
+Package pdftex.def Info: LyaProfiles/z5_GND_17752.png  used on input line 875.
+(pdftex.def)             Requested size: 341.43306pt x 251.18886pt.
+<HaProfiles/z5_GND_17752.pdf, id=9690, 781.49779pt x 496.11201pt>
+File: HaProfiles/z5_GND_17752.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_17752.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_17752.pdf  used on input line 876.
+(pdftex.def)             Requested size: 341.43306pt x 230.0248pt.
+<Cutout/z5_GND_17752.pdf, id=9691, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_17752.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_17752.pdf>
+Package pdftex.def Info: Cutout/z5_GND_17752.pdf  used on input line 877.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+
+
+LaTeX Warning: Float too large for page by 71.36041pt on input line 880.
+
+[123 <./LyaProfiles/z5_GND_17752.png> <./HaProfiles/z5_GND_17752.pdf> <./Cutout
+/z5_GND_17752.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_17752.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z5_GND_37006.png, id=9789, 767.86874pt x 521.0667pt>
+File: LyaProfiles/z5_GND_37006.png Graphic file (type png)
+<use LyaProfiles/z5_GND_37006.png>
+Package pdftex.def Info: LyaProfiles/z5_GND_37006.png  used on input line 883.
+(pdftex.def)             Requested size: 341.43306pt x 245.25229pt.
+<Cutout/z5_GND_37006.pdf, id=9790, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_37006.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_37006.pdf>
+Package pdftex.def Info: Cutout/z5_GND_37006.pdf  used on input line 884.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [124 <./LyaProfiles/z5_GND_37006.png> <./Cutout/z5_GND_37006.pdf>]
+<HaProfiles/z5_GND_15486.pdf, id=9824, 754.57973pt x 496.11201pt>
+File: HaProfiles/z5_GND_15486.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_15486.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_15486.pdf  used on input line 890.
+(pdftex.def)             Requested size: 341.43306pt x 238.25311pt.
+<Cutout/z5_GND_15486.pdf, id=9825, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_15486.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_15486.pdf>
+Package pdftex.def Info: Cutout/z5_GND_15486.pdf  used on input line 891.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [125 <./HaProfiles/z5_GND_15486.pdf> <./Cutout/z5_GND_15486.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_15486.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z5_GND_464.png, id=9924, 749.4399pt x 521.0667pt>
+File: LyaProfiles/z5_GND_464.png Graphic file (type png)
+<use LyaProfiles/z5_GND_464.png>
+Package pdftex.def Info: LyaProfiles/z5_GND_464.png  used on input line 897.
+(pdftex.def)             Requested size: 341.43306pt x 251.31464pt.
+<Cutout/z5_GND_464.pdf, id=9925, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_464.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_464.pdf>
+Package pdftex.def Info: Cutout/z5_GND_464.pdf  used on input line 898.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [126 <./LyaProfiles/z5_GND_464.png> <./Cutout/z5_GND_464.pdf>]
+<HaProfiles/z5_GND_7334.pdf, id=9958, 781.49779pt x 496.11201pt>
+File: HaProfiles/z5_GND_7334.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_7334.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_7334.pdf  used on input line 904.
+(pdftex.def)             Requested size: 341.43306pt x 230.0248pt.
+<Cutout/z5_GND_7334.pdf, id=9959, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_7334.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_7334.pdf>
+Package pdftex.def Info: Cutout/z5_GND_7334.pdf  used on input line 905.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [127 <./HaProfiles/z5_GND_7334.pdf> <./Cutout/z5_GND_7334.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_7334.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_28891.pdf, id=10058, 772.90349pt x 496.11201pt>
+File: HaProfiles/z5_GND_28891.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_28891.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_28891.pdf  used on input line 911.
+(pdftex.def)             Requested size: 341.43306pt x 232.58614pt.
+<Cutout/z5_GND_28891.pdf, id=10059, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_28891.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_28891.pdf>
+Package pdftex.def Info: Cutout/z5_GND_28891.pdf  used on input line 912.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [128 <./HaProfiles/z5_GND_28891.pdf> <./Cutout/z5_GND_28891.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_28891.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z5_GND_22796.pdf, id=10157, 767.57187pt x 496.11201pt>
+File: HaProfiles/z5_GND_22796.pdf Graphic file (type pdf)
+<use HaProfiles/z5_GND_22796.pdf>
+Package pdftex.def Info: HaProfiles/z5_GND_22796.pdf  used on input line 918.
+(pdftex.def)             Requested size: 341.43306pt x 234.20299pt.
+<Cutout/z5_GND_22796.pdf, id=10158, 305.31659pt x 264.66472pt>
+File: Cutout/z5_GND_22796.pdf Graphic file (type pdf)
+<use Cutout/z5_GND_22796.pdf>
+Package pdftex.def Info: Cutout/z5_GND_22796.pdf  used on input line 919.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [129 <./HaProfiles/z5_GND_22796.pdf> <./Cutout/z5_GND_22796.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z5_GND_22796.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z7_GND_18323.pdf, id=10257, 783.58934pt x 496.11201pt>
+File: HaProfiles/z7_GND_18323.pdf Graphic file (type pdf)
+<use HaProfiles/z7_GND_18323.pdf>
+Package pdftex.def Info: HaProfiles/z7_GND_18323.pdf  used on input line 925.
+(pdftex.def)             Requested size: 341.43306pt x 229.40047pt.
+<Cutout/z7_GND_18323.pdf, id=10258, 307.44246pt x 264.66472pt>
+File: Cutout/z7_GND_18323.pdf Graphic file (type pdf)
+<use Cutout/z7_GND_18323.pdf>
+Package pdftex.def Info: Cutout/z7_GND_18323.pdf  used on input line 926.
+(pdftex.def)             Requested size: 256.0748pt x 246.42273pt.
+ [130 <./HaProfiles/z7_GND_18323.pdf> <./Cutout/z7_GND_18323.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z7_GND_18323.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z7_GND_10402.pdf, id=10357, 781.49779pt x 496.11201pt>
+File: HaProfiles/z7_GND_10402.pdf Graphic file (type pdf)
+<use HaProfiles/z7_GND_10402.pdf>
+Package pdftex.def Info: HaProfiles/z7_GND_10402.pdf  used on input line 932.
+(pdftex.def)             Requested size: 341.43306pt x 230.0248pt.
+<Cutout/z7_GND_10402.pdf, id=10358, 305.31659pt x 264.66472pt>
+File: Cutout/z7_GND_10402.pdf Graphic file (type pdf)
+<use Cutout/z7_GND_10402.pdf>
+Package pdftex.def Info: Cutout/z7_GND_10402.pdf  used on input line 933.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [131 <./HaProfiles/z7_GND_10402.pdf> <./Cutout/z7_GND_10402.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z7_GND_10402.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<HaProfiles/z8_GND_23069.pdf, id=10457, 777.54308pt x 496.11201pt>
+File: HaProfiles/z8_GND_23069.pdf Graphic file (type pdf)
+<use HaProfiles/z8_GND_23069.pdf>
+Package pdftex.def Info: HaProfiles/z8_GND_23069.pdf  used on input line 939.
+(pdftex.def)             Requested size: 341.43306pt x 231.1934pt.
+<Cutout/z8_GND_23069.pdf, id=10458, 305.31659pt x 264.66472pt>
+File: Cutout/z8_GND_23069.pdf Graphic file (type pdf)
+<use Cutout/z8_GND_23069.pdf>
+Package pdftex.def Info: Cutout/z8_GND_23069.pdf  used on input line 940.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [132 <./HaProfiles/z8_GND_23069.pdf> <./Cutout/z8_GND_23069.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/z8_GND_23069.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/z8_GND_35384.png, id=10555, 767.86874pt x 521.0667pt>
+File: LyaProfiles/z8_GND_35384.png Graphic file (type png)
+<use LyaProfiles/z8_GND_35384.png>
+Package pdftex.def Info: LyaProfiles/z8_GND_35384.png  used on input line 946.
+(pdftex.def)             Requested size: 341.43306pt x 245.25229pt.
+<Cutout/z8_GND_35384.pdf, id=10556, 305.31659pt x 264.66472pt>
+File: Cutout/z8_GND_35384.pdf Graphic file (type pdf)
+<use Cutout/z8_GND_35384.pdf>
+Package pdftex.def Info: Cutout/z8_GND_35384.pdf  used on input line 947.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [133 <./LyaProfiles/z8_GND_35384.png> <./Cutout/z8_GND_35384.pdf>]
+<LyaProfiles/Hu10_z6_5.png, id=10591, 756.6669pt x 520.70535pt>
+File: LyaProfiles/Hu10_z6_5.png Graphic file (type png)
+<use LyaProfiles/Hu10_z6_5.png>
+Package pdftex.def Info: LyaProfiles/Hu10_z6_5.png  used on input line 953.
+(pdftex.def)             Requested size: 341.43306pt x 248.7277pt.
+<Cutout/Hu10_z6_5.pdf, id=10592, 306.14136pt x 264.66472pt>
+File: Cutout/Hu10_z6_5.pdf Graphic file (type pdf)
+<use Cutout/Hu10_z6_5.pdf>
+Package pdftex.def Info: Cutout/Hu10_z6_5.pdf  used on input line 954.
+(pdftex.def)             Requested size: 256.0748pt x 247.49168pt.
+ [134 <./LyaProfiles/Hu10_z6_5.png> <./Cutout/Hu10_z6_5.pdf>]
+<LyaProfiles/Hu10_z6_11.png, id=10626, 767.86874pt x 520.70535pt>
+File: LyaProfiles/Hu10_z6_11.png Graphic file (type png)
+<use LyaProfiles/Hu10_z6_11.png>
+Package pdftex.def Info: LyaProfiles/Hu10_z6_11.png  used on input line 960.
+(pdftex.def)             Requested size: 341.43306pt x 245.09102pt.
+<Cutout/Hu10_z6_11.pdf, id=10627, 305.31659pt x 264.66472pt>
+File: Cutout/Hu10_z6_11.pdf Graphic file (type pdf)
+<use Cutout/Hu10_z6_11.pdf>
+Package pdftex.def Info: Cutout/Hu10_z6_11.pdf  used on input line 961.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [135 <./LyaProfiles/Hu10_z6_11.png> <./Cutout/Hu10_z6_11.pdf>]
+<LyaProfiles/Hu10_z6_7.png, id=10660, 767.86874pt x 520.70535pt>
+File: LyaProfiles/Hu10_z6_7.png Graphic file (type png)
+<use LyaProfiles/Hu10_z6_7.png>
+Package pdftex.def Info: LyaProfiles/Hu10_z6_7.png  used on input line 967.
+(pdftex.def)             Requested size: 341.43306pt x 245.09102pt.
+<Cutout/Hu10_z6_7.pdf, id=10661, 305.31659pt x 264.66472pt>
+File: Cutout/Hu10_z6_7.pdf Graphic file (type pdf)
+<use Cutout/Hu10_z6_7.pdf>
+Package pdftex.def Info: Cutout/Hu10_z6_7.pdf  used on input line 968.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [136 <./LyaProfiles/Hu10_z6_7.png> <./Cutout/Hu10_z6_7.pdf>]
+<LyaProfiles/Hu10_z6_6.png, id=10695, 749.4399pt x 520.70535pt>
+File: LyaProfiles/Hu10_z6_6.png Graphic file (type png)
+<use LyaProfiles/Hu10_z6_6.png>
+Package pdftex.def Info: LyaProfiles/Hu10_z6_6.png  used on input line 974.
+(pdftex.def)             Requested size: 341.43306pt x 251.14938pt.
+<Cutout/Hu10_z6_6.pdf, id=10696, 305.31659pt x 264.66472pt>
+File: Cutout/Hu10_z6_6.pdf Graphic file (type pdf)
+<use Cutout/Hu10_z6_6.pdf>
+Package pdftex.def Info: Cutout/Hu10_z6_6.pdf  used on input line 975.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [137 <./LyaProfiles/Hu10_z6_6.png> <./Cutout/Hu10_z6_6.pdf>]
+<LyaProfiles/Hu10_z6_3.png, id=10731, 749.4399pt x 520.70535pt>
+File: LyaProfiles/Hu10_z6_3.png Graphic file (type png)
+<use LyaProfiles/Hu10_z6_3.png>
+Package pdftex.def Info: LyaProfiles/Hu10_z6_3.png  used on input line 981.
+(pdftex.def)             Requested size: 341.43306pt x 251.14938pt.
+<Cutout/Hu10_z6_3.pdf, id=10732, 305.31659pt x 264.66472pt>
+File: Cutout/Hu10_z6_3.pdf Graphic file (type pdf)
+<use Cutout/Hu10_z6_3.pdf>
+Package pdftex.def Info: Cutout/Hu10_z6_3.pdf  used on input line 982.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+
+[138 <./LyaProfiles/Hu10_z6_3.png> <./Cutout/Hu10_z6_3.pdf>]
+<LyaProfiles/Stark11_43_3982.png, id=10766, 749.4399pt x 520.70535pt>
+File: LyaProfiles/Stark11_43_3982.png Graphic file (type png)
+<use LyaProfiles/Stark11_43_3982.png>
+Package pdftex.def Info: LyaProfiles/Stark11_43_3982.png  used on input line 98
+8.
+(pdftex.def)             Requested size: 341.43306pt x 251.14938pt.
+<Cutout/Stark11_43_3982.pdf, id=10767, 305.51321pt x 264.66472pt>
+File: Cutout/Stark11_43_3982.pdf Graphic file (type pdf)
+<use Cutout/Stark11_43_3982.pdf>
+Package pdftex.def Info: Cutout/Stark11_43_3982.pdf  used on input line 989.
+(pdftex.def)             Requested size: 256.0748pt x 248.00156pt.
+ [139 <./LyaProfiles/Stark11_43_3982.png> <./Cutout/Stark11_43_3982.pdf>]
+<LyaProfiles/Jung18_z6_GND_5752.png, id=10804, 765.70065pt x 521.0667pt>
+File: LyaProfiles/Jung18_z6_GND_5752.png Graphic file (type png)
+<use LyaProfiles/Jung18_z6_GND_5752.png>
+Package pdftex.def Info: LyaProfiles/Jung18_z6_GND_5752.png  used on input line
+ 995.
+(pdftex.def)             Requested size: 341.43306pt x 245.94824pt.
+<Cutout/Jung18_z6_GND_5752.pdf, id=10805, 328.11328pt x 268.96825pt>
+File: Cutout/Jung18_z6_GND_5752.pdf Graphic file (type pdf)
+<use Cutout/Jung18_z6_GND_5752.pdf>
+Package pdftex.def Info: Cutout/Jung18_z6_GND_5752.pdf  used on input line 996.
+
+(pdftex.def)             Requested size: 256.0748pt x 234.16125pt.
+ [140 <./LyaProfiles/Jung18_z6_GND_5752.png> <./Cutout/Jung18_z6_GND_5752.pdf>]
+<LyaProfiles/Stark11_42_13066.png, id=10842, 749.4399pt x 520.70535pt>
+File: LyaProfiles/Stark11_42_13066.png Graphic file (type png)
+<use LyaProfiles/Stark11_42_13066.png>
+Package pdftex.def Info: LyaProfiles/Stark11_42_13066.png  used on input line 1
+002.
+(pdftex.def)             Requested size: 341.43306pt x 251.14938pt.
+<Cutout/Stark11_42_13066.pdf, id=10843, 311.89644pt x 264.66472pt>
+File: Cutout/Stark11_42_13066.pdf Graphic file (type pdf)
+<use Cutout/Stark11_42_13066.pdf>
+Package pdftex.def Info: Cutout/Stark11_42_13066.pdf  used on input line 1003.
+(pdftex.def)             Requested size: 256.0748pt x 242.88489pt.
+ [141 <./LyaProfiles/Stark11_42_13066.png> <./Cutout/Stark11_42_13066.pdf>]
+<LyaProfiles/Stark11_33_17705.png, id=10879, 749.4399pt x 520.70535pt>
+File: LyaProfiles/Stark11_33_17705.png Graphic file (type png)
+<use LyaProfiles/Stark11_33_17705.png>
+Package pdftex.def Info: LyaProfiles/Stark11_33_17705.png  used on input line 1
+009.
+(pdftex.def)             Requested size: 341.43306pt x 251.14938pt.
+<HaProfiles/Stark11_33_17705.pdf, id=10880, 781.49779pt x 496.11201pt>
+File: HaProfiles/Stark11_33_17705.pdf Graphic file (type pdf)
+<use HaProfiles/Stark11_33_17705.pdf>
+Package pdftex.def Info: HaProfiles/Stark11_33_17705.pdf  used on input line 10
+10.
+(pdftex.def)             Requested size: 341.43306pt x 230.0248pt.
+<Cutout/Stark11_33_17705.pdf, id=10881, 311.89644pt x 264.66472pt>
+File: Cutout/Stark11_33_17705.pdf Graphic file (type pdf)
+<use Cutout/Stark11_33_17705.pdf>
+Package pdftex.def Info: Cutout/Stark11_33_17705.pdf  used on input line 1011.
+(pdftex.def)             Requested size: 256.0748pt x 242.88489pt.
+
+
+LaTeX Warning: Float too large for page by 66.0522pt on input line 1014.
+
+[142 <./LyaProfiles/Stark11_33_17705.png> <./HaProfiles/Stark11_33_17705.pdf> <
+./Cutout/Stark11_33_17705.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/Stark11_33_17705.pd
+f): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/Stark11_32_16773.png, id=10980, 749.4399pt x 520.70535pt>
+File: LyaProfiles/Stark11_32_16773.png Graphic file (type png)
+<use LyaProfiles/Stark11_32_16773.png>
+Package pdftex.def Info: LyaProfiles/Stark11_32_16773.png  used on input line 1
+017.
+(pdftex.def)             Requested size: 341.43306pt x 251.14938pt.
+<Cutout/Stark11_32_16773.pdf, id=10981, 311.89644pt x 264.66472pt>
+File: Cutout/Stark11_32_16773.pdf Graphic file (type pdf)
+<use Cutout/Stark11_32_16773.pdf>
+Package pdftex.def Info: Cutout/Stark11_32_16773.pdf  used on input line 1018.
+(pdftex.def)             Requested size: 256.0748pt x 242.88489pt.
+ [143 <./LyaProfiles/Stark11_32_16773.png> <./Cutout/Stark11_32_16773.pdf>]
+<LyaProfiles/Stark11_34_24923.png, id=11017, 749.4399pt x 520.70535pt>
+File: LyaProfiles/Stark11_34_24923.png Graphic file (type png)
+<use LyaProfiles/Stark11_34_24923.png>
+Package pdftex.def Info: LyaProfiles/Stark11_34_24923.png  used on input line 1
+024.
+(pdftex.def)             Requested size: 341.43306pt x 251.14938pt.
+<HaProfiles/Stark11_34_24923.pdf, id=11018, 781.49779pt x 496.11201pt>
+File: HaProfiles/Stark11_34_24923.pdf Graphic file (type pdf)
+<use HaProfiles/Stark11_34_24923.pdf>
+Package pdftex.def Info: HaProfiles/Stark11_34_24923.pdf  used on input line 10
+25.
+(pdftex.def)             Requested size: 341.43306pt x 230.0248pt.
+<Cutout/Stark11_34_24923.pdf, id=11019, 311.89644pt x 264.66472pt>
+File: Cutout/Stark11_34_24923.pdf Graphic file (type pdf)
+<use Cutout/Stark11_34_24923.pdf>
+Package pdftex.def Info: Cutout/Stark11_34_24923.pdf  used on input line 1026.
+(pdftex.def)             Requested size: 256.0748pt x 242.88489pt.
+
+
+LaTeX Warning: Float too large for page by 66.0522pt on input line 1029.
+
+[144 <./LyaProfiles/Stark11_34_24923.png> <./HaProfiles/Stark11_34_24923.pdf> <
+./Cutout/Stark11_34_24923.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Cutout/Stark11_34_24923.pd
+f): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<LyaProfiles/Jung18_z6_GND_28438.png, id=11118, 767.86874pt x 521.0667pt>
+File: LyaProfiles/Jung18_z6_GND_28438.png Graphic file (type png)
+<use LyaProfiles/Jung18_z6_GND_28438.png>
+Package pdftex.def Info: LyaProfiles/Jung18_z6_GND_28438.png  used on input lin
+e 1032.
+(pdftex.def)             Requested size: 341.43306pt x 245.25229pt.
+<Cutout/Jung18_z6_GND_28438.pdf, id=11119, 334.4965pt x 264.66472pt>
+File: Cutout/Jung18_z6_GND_28438.pdf Graphic file (type pdf)
+<use Cutout/Jung18_z6_GND_28438.pdf>
+Package pdftex.def Info: Cutout/Jung18_z6_GND_28438.pdf  used on input line 103
+3.
+(pdftex.def)             Requested size: 256.0748pt x 226.33624pt.
+ [145 <./LyaProfiles/Jung18_z6_GND_28438.png> <./Cutout/Jung18_z6_GND_28438.pdf
+>]
+<LyaProfiles/Hu10_z7_1.png, id=11159, 727.7589pt x 460.3599pt>
+File: LyaProfiles/Hu10_z7_1.png Graphic file (type png)
+<use LyaProfiles/Hu10_z7_1.png>
+Package pdftex.def Info: LyaProfiles/Hu10_z7_1.png  used on input line 1039.
+(pdftex.def)             Requested size: 341.43306pt x 230.22678pt.
+<Cutout/Hu10_z7_1.pdf, id=11160, 305.31659pt x 264.66472pt>
+File: Cutout/Hu10_z7_1.pdf Graphic file (type pdf)
+<use Cutout/Hu10_z7_1.pdf>
+Package pdftex.def Info: Cutout/Hu10_z7_1.pdf  used on input line 1040.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [146 <./LyaProfiles/Hu10_z7_1.png> <./Cutout/Hu10_z7_1.pdf>]
+<LyaProfiles/Stark11_35_22381.png, id=11193, 749.4399pt x 520.70535pt>
+File: LyaProfiles/Stark11_35_22381.png Graphic file (type png)
+<use LyaProfiles/Stark11_35_22381.png>
+Package pdftex.def Info: LyaProfiles/Stark11_35_22381.png  used on input line 1
+046.
+(pdftex.def)             Requested size: 341.43306pt x 251.14938pt.
+<Cutout/Stark11_35_22381.pdf, id=11194, 311.89644pt x 264.66472pt>
+File: Cutout/Stark11_35_22381.pdf Graphic file (type pdf)
+<use Cutout/Stark11_35_22381.pdf>
+Package pdftex.def Info: Cutout/Stark11_35_22381.pdf  used on input line 1047.
+(pdftex.def)             Requested size: 256.0748pt x 242.88489pt.
+ [147 <./LyaProfiles/Stark11_35_22381.png> <./Cutout/Stark11_35_22381.pdf>]
+<LyaProfiles/Stark11_24_26902.png, id=11230, 749.4399pt x 520.70535pt>
+File: LyaProfiles/Stark11_24_26902.png Graphic file (type png)
+<use LyaProfiles/Stark11_24_26902.png>
+Package pdftex.def Info: LyaProfiles/Stark11_24_26902.png  used on input line 1
+053.
+(pdftex.def)             Requested size: 341.43306pt x 251.14938pt.
+<Cutout/Stark11_24_26902.pdf, id=11231, 311.89644pt x 264.66472pt>
+File: Cutout/Stark11_24_26902.pdf Graphic file (type pdf)
+<use Cutout/Stark11_24_26902.pdf>
+Package pdftex.def Info: Cutout/Stark11_24_26902.pdf  used on input line 1054.
+(pdftex.def)             Requested size: 256.0748pt x 242.88489pt.
+ [148 <./LyaProfiles/Stark11_24_26902.png> <./Cutout/Stark11_24_26902.pdf>]
+<LyaProfiles/Stark11_42_6706.png, id=11267, 756.6669pt x 520.70535pt>
+File: LyaProfiles/Stark11_42_6706.png Graphic file (type png)
+<use LyaProfiles/Stark11_42_6706.png>
+Package pdftex.def Info: LyaProfiles/Stark11_42_6706.png  used on input line 10
+60.
+(pdftex.def)             Requested size: 341.43306pt x 248.7277pt.
+<Cutout/Stark11_42_6706.pdf, id=11268, 305.51321pt x 264.66472pt>
+File: Cutout/Stark11_42_6706.pdf Graphic file (type pdf)
+<use Cutout/Stark11_42_6706.pdf>
+Package pdftex.def Info: Cutout/Stark11_42_6706.pdf  used on input line 1061.
+(pdftex.def)             Requested size: 256.0748pt x 248.00156pt.
+ [149 <./LyaProfiles/Stark11_42_6706.png> <./Cutout/Stark11_42_6706.pdf>]
+<LyaProfiles/Hu10_z7_2.png, id=11304, 749.4399pt x 520.70535pt>
+File: LyaProfiles/Hu10_z7_2.png Graphic file (type png)
+<use LyaProfiles/Hu10_z7_2.png>
+Package pdftex.def Info: LyaProfiles/Hu10_z7_2.png  used on input line 1067.
+(pdftex.def)             Requested size: 341.43306pt x 251.14938pt.
+<Cutout/Hu10_z7_2.pdf, id=11305, 305.31659pt x 264.66472pt>
+File: Cutout/Hu10_z7_2.pdf Graphic file (type pdf)
+<use Cutout/Hu10_z7_2.pdf>
+Package pdftex.def Info: Cutout/Hu10_z7_2.pdf  used on input line 1068.
+(pdftex.def)             Requested size: 256.0748pt x 248.15363pt.
+ [150 <./LyaProfiles/Hu10_z7_2.png> <./Cutout/Hu10_z7_2.pdf>] (./Document.aux) 
+) 
+Here is how much of TeX's memory you used:
+ 3870 strings out of 476025
+ 95965 string characters out of 5790017
+ 1851388 words of memory out of 5000000
+ 24198 multiletter control sequences out of 15000+600000
+ 515023 words of font info for 41 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,6n,62p,218b,279s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on Document.pdf (150 pages, 20359860 bytes).
+PDF statistics:
+ 11355 PDF objects out of 12825 (max. 8388607)
+ 2691 compressed objects within 27 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1551 words of extra memory for PDF output out of 10000 (max. 10000000)
+

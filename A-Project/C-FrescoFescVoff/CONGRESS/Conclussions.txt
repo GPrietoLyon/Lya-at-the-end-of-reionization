@@ -1,0 +1,160 @@
+Bino ID | zlya | zphot | zsys
+z6_GNW_11543 5.769585403180398 5.7 nan
+Fresco ID | zHa | q_final
+32735 5.611 3.0
+Voff
+7191.454821112164
+Note: This source has a strong detection of Ha and Lya, not sure what is going on. Search for other line combinations. 
+Consensus: Delete as LAE and add zsys. Not Lya, weak line might be noise, unlikely to be another line (NV).
+
+##########
+
+
+Bino ID | zlya | zphot | zsys
+z6_GND_36553 5.610946246224566 5.72 nan
+Fresco ID | zHa | q_final
+29820 5.606 2.0
+Voff
+224.46977195518974
+Note: Ha matches pretty good
+Consensus: Add zsys.
+
+#######
+
+Bino ID | zlya | zphot | zsys
+z6_GND_32408 nan 6.0 nan
+Fresco ID | zHa | q_final
+26982 5.608 2.0
+Voff
+nan
+Note: Ha is very weak
+Consensus: No changes, Not strong enough
+######
+
+Bino ID | zlya | zphot | zsys
+z5_GND_7766 5.5912848204122305 5.58 nan
+Fresco ID | zHa | q_final
+3869 5.591 3.0
+Voff
+12.955092015035989
+Note: Good detection of Ha
+Consensus: Add zsys.    
+
+#####
+
+Bino ID | zlya | zphot | zsys
+z5_GND_13996 nan 5.51 6.01536418811046
+Fresco ID | zHa | q_final
+10648 6.315 3.0
+Voff
+nan
+Note: My zsys is different, but idk it could be any, lets pick the same as them
+Consensus: Correct zsys with this one
+
+####
+
+Bino ID | zlya | zphot | zsys
+z5_GND_23860 6.584699244519547 5.29 nan
+Fresco ID | zHa | q_final
+20071 5.092 2.25
+Voff
+73456.98876711396
+Note: Strong line, search for solutions. Lya is also very strong
+Consensus: No solution. Remove LAE, use zsys.
+
+#####
+
+Bino ID | zlya | zphot | zsys
+z5_GND_10047 6.010827192429243 5.5 nan
+Fresco ID | zHa | q_final
+6732 5.194 3.0
+Voff
+39534.813009299614
+Note: Lya is weak, Ha strong. Might be Lya contamination
+Consensus: No solution. Remove LAE, use zsys.
+
+#####
+
+Bino ID | zlya | zphot | zsys
+z5_GND_28693 nan 5.23 nan
+Fresco ID | zHa | q_final
+1000023 5.344 3.0
+Voff
+nan
+Note: Confirmed with Congress
+Consensus: Add zsys
+
+########
+
+Bino ID | zlya | zphot | zsys
+z8_GND_35384 6.874310778098622 7.6 nan
+Fresco ID | zHa | q_final
+28978 6.55 2.0
+Voff
+12877.606002924318
+Note: Ha too weak, and Lya very strong. Search solutions
+Consensus: No changes. No Lya solutions for Ha
+
+#######
+
+Bino ID | zlya | zphot | zsys
+Hu10_z6_12 nan 5.429999828338623 nan
+Fresco ID | zHa | q_final
+21046 5.189 3.0
+Voff
+nan
+Note: Ha very strong, correct target
+Consensus: Add zsys
+
+#####
+
+Bino ID | zlya | zphot | zsys
+Hu10_z6_9 nan 5.510000228881836 nan
+Fresco ID | zHa | q_final
+10916 5.241 3.0
+Voff
+nan
+Note: Ha very strong, correct target
+Consensus: Add zsys
+
+#######
+
+Bino ID | zlya | zphot | zsys
+Stark11_43_3982 5.7079772054167845 5.570000171661377 nan
+Fresco ID | zHa | q_final
+16141 5.703 2.0
+Voff
+222.60609366979963
+Note: Weak Ha, but maybe its a detection
+Consensus: Add zsys.
+
+#####
+
+Bino ID | zlya | zphot | zsys
+Stark11_42_13066 5.611516765989035 5.71999979019165 nan
+Fresco ID | zHa | q_final
+29820 5.606 2.0
+Voff
+250.3610106060531
+Note: Ok detection
+Consensus: Add zsys.
+
+#####
+
+Bino ID | zlya | zphot | zsys
+z5_GND_44499 nan 5.58 nan
+Congress ID | zHa | q_final
+4571 4.477 2.5
+Voff
+nan
+Note: Could be? dont have the data
+Consensus: Add zsys.
+
+Bino ID | zlya | zphot | zsys
+z5_GND_14131 nan 5.41 5.197174093385477
+Congress ID | zHa | q_final
+1000033 4.972 2.25
+Voff
+nan
+Note: Conflicts with FRESCO redshift
+Consensus: Add zsys

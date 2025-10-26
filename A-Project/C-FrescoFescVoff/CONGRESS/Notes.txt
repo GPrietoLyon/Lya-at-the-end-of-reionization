@@ -1,0 +1,51 @@
+Notes on tasks:
+
+Add Congress Fresco Changes to Catalogs:
+
+    - Change false positive LAEs to nonLAEs (3 sources) X
+
+    - Remove previous Lya related values to new nonLAEs X
+
+    - Run Gaussian fitting for newfound Halpha X
+
+    - Add zsys and voff for new sources X
+
+With New Catalog, re run results :
+
+    - Calculate  escape fractions for newfound Lya+Ha (4 sources) X
+
+    - Re run Tables X
+
+    - Re run Plots X
+
+    - Partial rerun of fesc model to see if any changes appear 
+
+Remove Text involving Ha broadness
+
+    - Remove plots that involve the broadness of Halpha X
+
+    - Remove text that involve the broadness of Halpha X
+
+    - Add a new small paragraph mentioning the limitations of NIRCam slitless due to spatial extension  X
+
+Other minor changes to paper
+
+    - Write about comparing to FRESCO/CONGRESS X
+
+    - Literature fixes X
+
+    - Add Authors X
+
+    - Halpha plot fix label sizes X
+
+    - Plot fixes (conflicting colors and captions)
+
+    - Other small comments 
+
+Bias of faint sources: 
+
+    - Adress Romains and Rohan comments on how the lya search is incomplete in faint sources
+
+
+
+    

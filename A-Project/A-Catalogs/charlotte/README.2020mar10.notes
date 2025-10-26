@@ -1,0 +1,72 @@
+# Created 3/10/20 BCL
+
+# This is a README created for all files to be sent to Charlotte as part of the ongoing work to infer the neutral 
+# fraction of the IGM at z=5-7. These files all relate to the DEIMOS-observed LAE-candidate sample presented 
+# in Fuller et al. (2020, https://arxiv.org/abs/2002.08952). These files relate to both those DEIMOS targets  
+# and serendipitously observed high-z candidates where an emission line (likely Lya) was detected and those
+# where no detection was made. There are a total of 162 non-detections and 36 detections. For information on
+# the observing strategy, detection method, and calculation of associated spectral parameters, see 
+# Fuller et al. (2020). Information on integration times/observing conditions for individual objects are 
+# contained in an internal spreadsheet that can be provided if needed.  
+ 
+# The following files are contained within the unpacked .tar.gz file:
+
+1) FINAL_LAE_By_ID_formatforCharlotte_det.cat: The master catalog for all DEIMOS detections of high-z candidates.
+This file contains all relevant information for each detection. The various flags are explained in the header 
+of the file. Other important quantities are explained here:
+
+specID: The ID that can be used to match to the other files in this repository. It can also be used to match
+to the IDs given in Fuller et al. (2020)
+
+EW_band: The band used to calculate the Lya EW for detections (or the EW spectra for the non-detected candidates)
+
+mag/mag_err: The magnitude/magnitude error in the EW_band. Magnitude measurements come from the either ASTRODEEP 
+(or catalogs that use equivalent methods) or CLASH
+
+pznopri: Dominant peak of the P(z) as calculated without using a magnitude prior (appropriate for a lensed sample)
+
+Mag_16/Mag_med/Mag_84: 16th/50th/84th percentile of the magnification values for this source evaluated at the 
+spectral redshift (or pznopri for the non-detections)
+
+z_spec: spectral redshift from the detected Lya line 
+
+EWr/EWr_err: Rest-frame equivalent width and associated uncertainty of the Lya feature in Angstroems 
+
+Lowest_res_grating: FWHM resolution of the DEIMOS grating with the lowest resolution that observed this candidate.
+Many candidates were observed over multiple nights/years with different setups. These observations were combined 
+by degrading all spectra to the lowest resolution prior to coaddition.  
+
+2) FINAL_LAE_By_ID_formatforCharlotte_nondet.cat: The master catalog for all DEIMOS non-detections of high-z 
+candidates. This file contains all relevant information for each non-detected candidate. The meaning of all 
+listed quantities are explained above or in the header of this file. 
+
+3) An individual_Pz/ directory containing the full normalized P(z) for each non-detected candidate. The P(z)
+is estimated without a magnitude prior as for pznopri. For CLASH objects, the P(z) was re-created using 
+an asymmetric Gaussian characterized by the parameters given in the CLASH catalogs (BPZ most likely redshift,
+2sigma lower/upper limit). Those galaxies where CLASH information was used to reconstruct the P(z) have their 
+files labeled with the suffix "CLASH" (and also have CLASH flag=1 in FINAL_LAE_By_ID_formatforCharlotte_nondet.cat)
+
+4) An EWSpectra_New directory containing the spectra for non-detections as well as a plot of the median 1sigma
+upper limit flux spectrum for all non-detected candidates. The file associated with each non-detection
+contains seven comma-separated columns. These are:
+
+spec1d: The 1d flux density spectrum in units of ergs/s/cm^2/A *uncorrected* for slit loss effects
+
+lambda1d: The 1d lambda array
+
+ivar1d: The 1d inverse variance spectrum *uncorrected* for slit loss effects
+
+EW_spec_slitloss_cor: The EW spectrum evaluated at the photo-z (pznopri) and using the EW_band from above to
+set the continuum brightness. This EW spectrum is corrected for slit loss effects. 
+
+spec1d_slitloss_cor: The flux density spectrum (spec1d) after correction for slit loss effects. If needed, the 
+slit loss estimated for a given object can be determined by: 1-spec1d/spec1d_slitloss_cor 
+
+err_slitloss_cor: The flux density error spectrum (1d/sqrt(ivar1d)) after correction for slit loss effects
+
+OneSigUppLimFluxSpec_slitloss_cor: 1sigma upper limit flux spectrum as calculated from err_slitloss_cor and
+the lowest-resolution observations. These values are corrected for slit loss effects. 
+
+# A couple of spectra that have large artifacts in parts of their spectrum. These are objects 27440076 and
+# 27440119. These spectra can be safely used at lambda < 8000A and lambda > 8900A for the former and 
+# lambda > 8225A for the latter. All other spectra are fine to use throughout. 

@@ -1,0 +1,9 @@
+*.fits
+*.pdf
+*Posteriors.npy
+*.h5
+*-checkpoint*
+*.DS_Store
+code/data/*
+large_files/
+**/large_files/
